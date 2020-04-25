@@ -1,0 +1,48 @@
+{
+  "name": "Mozzie",
+  "stats": "2 Armor, 2 Speed",
+  "gadget_1": "Pest Launcher",
+  "gadget_2": ["Barbed Wire", "Nitro Cell"],
+  "icon": "https://i.imgur.com/K17lDFH.png",
+  "description": "Launches autonomous bots that latch onto nearby enemy drones, hijacking their controls",
+  "weapons": {
+    "primary": [{
+      "name": "Commando 9",
+      "damage": "36",
+      "rof": "750 RPM",
+      "mag_size": "25 + 1",
+      "total_ammo": "176",
+      "sights": "Red Dot, Holographic, Reflex",
+      "barrels": "Suppressor, Flash Hider, Compensator, Muzzle Brake",
+      "grips": "Vertical Grip, Angled Grip",
+      "under_barrel": "Laser",
+      "weapon_type": "Assault Rifle",
+      "image": "https://i.ibb.co/QfZm7Qb/Commando-9.png"
+    }, {
+      "name": "P10 RONI",
+      "damage": "26",
+      "rof": "950 RPM",
+      "mag_size": "19 + 1",
+      "total_ammo": "153",
+      "sights": "Red Dot, Holographic, Reflex",
+      "barrels": "Suppressor, Flash Hider, Compensator, Muzzle Brake, Extended Barrel",
+      "grips": "Vertical Grip, Angled Grip",
+      "under_barrel": "Laser",
+      "weapon_type": "Submachine Gun",
+      "image": "https://i.ibb.co/WKycDLx/P10-RONI.png"
+    }],
+    "secondary": [{
+      "name": "SPD 9mm",
+      "damage": "47",
+      "rof": "Semi-Auto",
+      "mag_size": "16 + 1",
+      "total_ammo": "81",
+      "sights": "No sights available",
+      "barrels": "Suppressor, Muzzle Brake",
+      "grips": "No grips available",
+      "under_barrel": "Laser",
+      "weapon_type": "Handgun",
+      "image": "https://i.ibb.co/cNNC0qV/SPD-9mm.png"
+    }]
+  }
+}

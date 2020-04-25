@@ -1,0 +1,60 @@
+{
+  "name": "Oryx",
+  "stats": "2 Armor, 2 Speed",
+  "gadget_1": "Remah Dash",
+  "gadget_2": ["Barbed Wire", "Bulletproof Camera"],
+  "description": "Fast dash that allows for faster roaming, breaches, breakable walls, and pushes back opponents",
+  "icon": "https://imgur.com/5gdjrHa.png",
+  "weapons": {
+    "primary": [{
+      "name": "MP5",
+      "damage": "27",
+      "rof": "800 RPM",
+      "mag_size": "30 + 1",
+      "total_ammo": "181",
+      "sights": "Red Dot, Holographic, Reflex",
+      "barrels": "Suppressor, Flash Hider, Muzzle Brake",
+      "grips": "Vertical Grip",
+      "under_barrel": "Laser",
+      "weapon_type": "Submachine Gun",
+      "image": "https://i.ibb.co/6rpfRRT/MP5.png"
+    }, {
+      "name": "SPAS-12",
+      "damage": "35",
+      "rof": "Semi-Auto",
+      "mag_size": "7",
+      "total_ammo": "36",
+      "sights": "Red Dot, Holographic, Reflex",
+      "barrels": "No barrels available",
+      "grips": "No grips available",
+      "under_barrel": "Laser",
+      "weapon_type": "Shotgun",
+      "image": "https://i.ibb.co/fx7JKyg/SPAS-12.png"
+    }],
+    "secondary": [{
+      "name": "Bailiff 410",
+      "damage": "30",
+      "rof": "Semi-Auto",
+      "mag_size": "5",
+      "total_ammo": "35",
+      "sights": "Red Dot (Permanently Equipped)",
+      "barrels": "No barrels available",
+      "grips": "No grips available",
+      "under_barrel": "Laser",
+      "weapon_type": "Handgun",
+      "image": "https://i.ibb.co/5Yr6dS0/Bailiff-410.png"
+    }, {
+      "name": "USP40",
+      "damage": "48",
+      "rof": "Semi-Auto",
+      "mag_size": "12 + 1",
+      "total_ammo": "61",
+      "sights": "No sights available",
+      "barrels": "Suppressor, Muzzle Brake",
+      "grips": "No grips available",
+      "under_barrel": "Laser",
+      "weapon_type": "Handgun",
+      "image": "https://i.ibb.co/QvW3G3Z/USP40.png"
+    }]
+  }
+}

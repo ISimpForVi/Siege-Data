@@ -1,0 +1,60 @@
+{
+  "name": "Amaru",
+  "stats": "2 Armor, 2 Speed",
+  "gadget_1": "Garra Hook",
+  "gadget_2": ["Claymore", "Stun Grenades"],
+  "icon": "https://i.imgur.com/EfAGS0u.png",
+  "description": "A high-tensile grappling gun used for fast access to rappel points and open hatches, or to enter via exterior windows at limited distances",
+  "weapons": {
+    "primary": [{
+      "name": "G8A1",
+      "damage": "37",
+      "rof": "850 RPM",
+      "mag_size": "50 + 1",
+      "total_ammo": "201",
+      "sights": "Red Dot, Holographic, Reflex, ACOG",
+      "barrels": "Suppressor, Flash Hider, Muzzle Brake",
+      "grips": "Angled Grip, Vertical Grip",
+      "under_barrel": "No under barrels available",
+      "weapon_type": "Light Machine Gun",
+      "image": "https://i.ibb.co/4fz6bGq/G8A1.png"
+    }, {
+      "name": "SuperNova",
+      "damage": "48",
+      "rof": "Pump-action",
+      "mag_size": "7",
+      "total_ammo": "42",
+      "sights": "Red Dot, Holographic, Reflex",
+      "barrels": "No barrels available",
+      "grips": "No grips available",
+      "under_barrel": "Laser",
+      "weapon_type": "Shotgun",
+      "image": "https://i.ibb.co/qxh96XV/Super-Nova.png"
+    }],
+    "secondary": [{
+      "name": "ITA12S",
+      "damage": "70",
+      "rof": "pump-Action",
+      "mag_size": "5",
+      "total_ammo": "26",
+      "sights": "Red Dot, Holographic, Reflex",
+      "barrels": "No barrels available",
+      "grips": "No grips available",
+      "under_barrel": "Laser",
+      "weapon_type": "Shotgun",
+      "image": "https://i.ibb.co/wLY32Z9/ITA12S.png"
+    }, {
+      "name": "SMG-11",
+      "damage": "32",
+      "rof": "1270 RPM",
+      "mag_size": "16 + 1",
+      "total_ammo": "97",
+      "sights": "Red Dot, Holographic, reflex",
+      "barrels": "Suppressor, Flash Hider, Compensator, Extended Barrel",
+      "grips": "Vertical Grip",
+      "under_barrel": "Laser",
+      "weapon_type": "Machine Pistol",
+      "image": "https://i.ibb.co/0FNppJv/SMG-11.png"
+    }]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Gridlock",
+  "stats": "3 Armor, 1 Speed",
+  "gadget_1": "Trax Stingers",
+  "gadget_2": ["Smoke Grenade", "Breach Charges"],
+  "icon": "https://i.imgur.com/bmkqy7i.png",
+  "description": "Thrown gadget that deploys barbed mats capable of slowing down and hurting enemies who traverse them",
+  "weapons": {
+    "primary": [{
+      "name": "F90",
+      "damage": "38",
+      "rof": "740 RPM",
+      "mag_size": "30 + 1",
+      "total_ammo": "211",
+      "sights": "Red Dot, Holographic, Reflex, ACOG",
+      "barrels": "Suppressor, Flash Hider, Compensator, Muzzle Brake",
+      "grips": "Vertical Grip",
+      "under_barrel": "Laser",
+      "weapon_type": "Assault Rifle",
+      "image": "https://i.ibb.co/xhsND7D/F90.png"
+    }, {
+      "name": "M249 SAW",
+      "damage": "48",
+      "rof": "650 RPM",
+      "mag_size": "60 + 1",
+      "total_ammo": "241",
+      "sights": "Red Dot, Holographic, Reflex, Scope",
+      "barrels": "Flash Hider, Compensator",
+      "grips": "Vertical Grip",
+      "under_barrel": "Laser",
+      "weapon_type": "Light Machine Gun",
+      "image": "https://i.ibb.co/V9HCymV/M249-SAW.png"
+    }],
+    "secondary": [{
+      "name": "SPD 9mm",
+      "damage": "47",
+      "rof": "Semi-Auto",
+      "mag_size": "16 + 1",
+      "total_ammo": "81",
+      "sights": "No sights available",
+      "barrels": "Suppressor, Muzzle Brake",
+      "grips": "No grips available",
+      "under_barrel": "Laser",
+      "weapon_type": "Handgun",
+      "image": "https://i.ibb.co/cNNC0qV/SPD-9mm.png"
+    }]
+  }
+}

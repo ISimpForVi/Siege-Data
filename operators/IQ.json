@@ -1,0 +1,60 @@
+{
+  "name": "IQ",
+  "stats": "1 Armor, 3 Speed",
+  "gadget_1": "Electronics Detector",
+  "gadget_2": ["Breach Charges", "Claymore"],
+  "icon": "https://i.imgur.com/OVwAqnT.png",
+  "description": "Uses the Electronics Detector to locate any electronics in range through obstacles such as walls",
+  "weapons": {
+    "primary": [{
+      "name": "AUG A2",
+      "damage": "42",
+      "rof": "720 RPM",
+      "mag_size": "30 + 1",
+      "total_ammo": "241",
+      "sights": "Red Dot, Holographic, Reflex, ACOG",
+      "barrels": "Suppressor, Flash Hider, Compensator",
+      "grips": "No grips available",
+      "under_barrel": "Laser",
+      "weapon_type": "Assault Rifle",
+      "image": "https://i.ibb.co/hFpg9RS/AUG-A2.png"
+    }, {
+      "name": "552 Commando",
+      "damage": "48",
+      "rof": "690 RPM",
+      "mag_size": "30 + 1",
+      "total_ammo": "241",
+      "sights": "Red Dot, Holographic, Reflex, ACOG",
+      "barrels": "Suppressor, Flash Hider, Compensator, Muzzle Brake",
+      "grips": "Vertical Grip, Angled Grip",
+      "under_barrel": "Laser",
+      "weapon_type": "Assault Rifle",
+      "image": "https://i.ibb.co/0sRbZ76/552-Commando.png"
+    }, {
+      "name": "G8A1",
+      "damage": "37",
+      "rof": "850 RPM",
+      "mag_size": "50 + 1",
+      "total_ammo": "201",
+      "sights": "Red Dot, Holographic, Reflex, ACOG",
+      "barrels": "Suppressor, Flash Hider, Muzzle Brake",
+      "grips": "Angled Grip, Vertical Grip",
+      "under_barrel": "No under barrels available",
+      "weapon_type": "Light Machine Gun",
+      "image": "https://i.ibb.co/4fz6bGq/G8A1.png"
+    }],
+    "secondary": [{
+      "name": "P12",
+      "damage": "44",
+      "rof": "Semi-Auto",
+      "mag_size": "15 + 1",
+      "total_ammo": "76",
+      "sights": "No sights available",
+      "barrels": "Suppressor, Muzzle Brake",
+      "grips": "No grips available",
+      "under_barrel": "Laser",
+      "weapon_type": "Handgun",
+      "image": "https://i.ibb.co/0mjcgCw/P12.png"
+    }]
+  }
+}
