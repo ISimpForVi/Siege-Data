@@ -93,9 +93,10 @@
   },
   "KANAL": {
     "name": "Kanal",
-    "1": ["Floor 1", "https://i.imgur.com/IequHmz.jpg"],
-    "2": ["Floor 2", "https://i.imgur.com/TDQczZP.jpg"],
-    "3": ["Floor 3", "https://i.imgur.com/CencqIL.jpg"],
+    "B1": ["Basement 1", ""],
+    "B2": ["Basement 2", ""],
+    "1": ["Floor 1", ""],
+    "2": ["Floor 2", ""],
     "R": ["Roof", "https://i.imgur.com/F3gcjoi.jpg"],
     "rotations": ["ranked"]
   },
