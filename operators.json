@@ -1,10 +1,58 @@
 {
+  "Ace": {
+    "name": "Ace",
+    "stats": "2 Armor, 2 Speed",
+    "gadget_1": "S.E.L.M.A Aqua Breacher",
+    "gadget_2": ["Breach Charges", "Smoke Grenades"],
+    "icon": "https://static.serames.me/r6/operators/icon/ace.png",
+    "description": "<description pending>",
+    "weapons": {
+      "primary": [{
+        "name": "AK-12",
+        "damage": "45",
+        "rof": "850 RPM",
+        "mag_size": "30 + 1",
+        "total_ammo": "241",
+        "sights": "Red Dot, Holographic, Reflex, ACOG",
+        "barrels": "Suppressor, Flash Hider, Compensator, Muzzle Brake",
+        "grips": "Vertical Grip, Angled Grip",
+        "under_barrel": "Laser",
+        "weapon_type": "Assault Rifle",
+        "image": "https://static.serames.me/r6/weapons/AK-12.jpg"
+      }, {
+        "name": "M1014",
+        "damage": "34",
+        "rof": "Semi-Auto",
+        "mag_size": "8",
+        "total_ammo": "33",
+        "sights": "Red Dot, Holographic, Reflex",
+        "barrels": "No barrels available",
+        "grips": "No grips available",
+        "under_barrel": "Laser",
+        "weapon_type": "Shotgun",
+        "image": "https://static.serames.me/r6/weapons/M1014.jpg"
+      }],
+      "secondary": [{
+        "name": "P9",
+        "damage": "45",
+        "rof": "Semi-Auto",
+        "mag_size": "16 + 1",
+        "total_ammo": "81",
+        "sights": "No sights available",
+        "barrels": "Suppressor, Muzzle Brake",
+        "grips": "No grips available",
+        "under_barrel": "Laser",
+        "weapon_type": "Handgun",
+        "image": "https://static.serames.me/r6/weapons/P9.jpg"
+      }]
+    }
+  },
   "Amaru": {
     "name": "Amaru",
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Garra Hook",
     "gadget_2": ["Claymore", "Stun Grenades"],
-    "icon": "https://i.imgur.com/EfAGS0u.png",
+    "icon": "https://static.serames.me/r6/operators/icon/amaru.png",
     "description": "A high-tensile grappling gun used for fast access to rappel points and open hatches, or to enter via exterior windows at limited distances",
     "weapons": {
       "primary": [{
@@ -64,7 +112,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Breaching Rounds",
     "gadget_2": ["Stun Grenades", "Breach Charges"],
-    "icon": "https://i.imgur.com/oIE1uv1.png",
+    "icon": "https://static.serames.me/r6/operators/icon/ash.png",
     "description": "Fires an explosive Breach Round that burrows into a surface and automatically detonates",
     "weapons": {
       "primary": [{
@@ -124,7 +172,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Rifle Shield",
     "gadget_2": ["Breach Charges", "Stun Grenades"],
-    "icon": "https://i.imgur.com/rOAb2T2.png",
+    "icon": "https://static.serames.me/r6/operators/icon/blackbeard.png",
     "description": "Deploys a ballistic shield on his rifle that can be swapped if the first one gets damaged",
     "weapons": {
       "primary": [{
@@ -172,7 +220,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Flash Shield",
     "gadget_2": ["Smoke Grenades", "Breach Charges"],
-    "icon": "https://i.imgur.com/WTXCuYG.png",
+    "icon": "https://static.serames.me/r6/operators/icon/blitz.png",
     "description": "Triggers the flash attatched to his ballistic shield to temporarily blind enemies",
     "weapons": {
       "primary": [{
@@ -208,7 +256,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Skeleton Key",
     "gadget_2": ["Stun Grenades", "Frag Grenades"],
-    "icon": "https://i.imgur.com/Hlg1nCa.png",
+    "icon": "https://static.serames.me/r6/operators/icon/buck.png",
     "description": "Toggles under-barrel shotgun attachment on his main weapon",
     "weapons": {
       "primary": [{
@@ -256,7 +304,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Tactical Crossbow",
     "gadget_2": ["Claymore", "Stun Grenades"],
-    "icon": "https://i.imgur.com/qRUpVc6.png",
+    "icon": "https://static.serames.me/r6/operators/icon/capitao.png",
     "description": "Tactical crossbow that firres asphyxiating bolts and micro smoke grenades",
     "weapons": {
       "primary": [{
@@ -304,7 +352,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Logic Bomb",
     "gadget_2": ["Smoke Grenades", "Stun Grenades"],
-    "icon": "https://i.imgur.com/nit6e2W.png",
+    "icon": "https://static.serames.me/r6/operators/icon/dokkaebi.png",
     "description": "Uploads a virus that forces enemy phones to emit a low buzz that can be overheard, thereby potentially compromising an enemy's position",
     "weapons": {
       "primary": [{
@@ -364,7 +412,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Adrenal Surge",
     "gadget_2": ["Breach Charges", "Frag Grenades"],
-    "icon": "https://i.imgur.com/mS5wKtD.png",
+    "icon": "https://static.serames.me/r6/operators/icon/finka.png",
     "description": "The nanobots give the team a brief gain in HP and revive allies in a DBNO state",
     "weapons": {
       "primary": [{
@@ -436,7 +484,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Cluster Charge",
     "gadget_2": ["Breach Charges", "Smoke Grenade"],
-    "icon": "https://i.imgur.com/NMKG4Tx.png",
+    "icon": "https://static.serames.me/r6/operators/icon/fuze.png",
     "description": "Uses Cluster Charges that pierce and stick to walls, releasing sub-grenades on the opposing side",
     "weapons": {
       "primary": [{
@@ -508,7 +556,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Flip Sight",
     "gadget_2": ["Smoke Genades", "Frag Grenades"],
-    "icon": "https://i.imgur.com/Es6xsTg.png",
+    "icon": "https://static.serames.me/r6/operators/icon/glaz.png",
     "description": "Toggles a magnofication scope with sophisticated image sensors outlining long range marks, even through smoke",
     "weapons": {
       "primary": [{
@@ -556,7 +604,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Trax Stingers",
     "gadget_2": ["Smoke Grenade", "Breach Charges"],
-    "icon": "https://i.imgur.com/bmkqy7i.png",
+    "icon": "https://static.serames.me/r6/operators/icon/gridlock.png",
     "description": "Thrown gadget that deploys barbed mats capable of slowing down and hurting enemies who traverse them",
     "weapons": {
       "primary": [{
@@ -604,7 +652,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "X-KAIROS Pellets",
     "gadget_2": ["Stun Grenades", "Breach Charges"],
-    "icon": "https://i.imgur.com/BLUdJPP.png",
+    "icon": "https://static.serames.me/r6/operators/icon/hibana.png",
     "description": "A 40mm grenade launcher firing explosive pellets that can be detonated from a distance",
     "weapons": {
       "primary": [{
@@ -665,7 +713,7 @@
     "gadget_1": "Gemini Replicator",
     "gadget_2": ["Smoke Grenades", "Frag Grenades"],
     "description": "Deploys a remote-controlled holographic copy of Iana to fool opponents and gather intel",
-    "icon": "https://imgur.com/LsIXctR.png",
+    "icon": "https://static.serames.me/r6/operators/icon/iana.png",
     "weapons": {
       "primary": [{
         "name": "G36C",
@@ -712,7 +760,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Eyenox Model III",
     "gadget_2": ["Breach Charges", "Smoke Grenades"],
-    "icon": "https://i.imgur.com/P4NkkxH.png",
+    "icon": "https://static.serames.me/r6/operators/icon/jackal.png",
     "description": "Tracking optics that locates targets by revealing and identifiying recent footsteps",
     "weapons": {
       "primary": [{
@@ -784,7 +832,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "LV Explosive Lance",
     "gadget_2": ["Breach Charges", "Claymore"],
-    "icon": "https://i.imgur.com/PT9aW2L.png",
+    "icon": "https://static.serames.me/r6/operators/icon/kali.png",
     "description": "An under-barrel mechanical projectile that explodes within a set radius to destroy gadgets on both sides of breakable and reinforced surfaces",
     "weapons": {
       "primary": [{
@@ -832,7 +880,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "EE-ONE-D",
     "gadget_2": ["Claymore", "Stun Grenades"],
-    "icon": "https://i.imgur.com/PoffTzW.png",
+    "icon": "https://static.serames.me/r6/operators/icon/lion.png",
     "description": "The EE-ONE-D detects enemy movement, tagging their position during the scan",
     "weapons": {
       "primary": [{
@@ -904,7 +952,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Breaching Torch",
     "gadget_2": ["Claymore", "Frag Grenades"],
-    "icon": "https://i.imgur.com/rKX66ni.png",
+    "icon": "https://static.serames.me/r6/operators/icon/maverick.png",
     "description": "Blowtorch capable of burning holes through reinforced walls at an almost inaudable level",
     "weapons": {
       "primary": [{
@@ -952,7 +1000,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Extendable Shield",
     "gadget_2": ["Stun Grenades", "Smoke Grenades"],
-    "icon": "https://i.imgur.com/2UaGmKr.png",
+    "icon": "https://static.serames.me/r6/operators/icon/montange.png",
     "description": "can extend his Extendable Shield to offer full protection while standing",
     "weapons": {
       "primary": [{
@@ -1000,7 +1048,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "HEL Presence Reduction",
     "gadget_2": ["Frag Grenades", "Breach Charges"],
-    "icon": "https://i.imgur.com/7S5j0iJ.png",
+    "icon": "https://static.serames.me/r6/operators/icon/nokk.png",
     "description": "Counter-intel that wipes Nokk's image from observation tools and reduces her noise, with exceptions",
     "weapons": {
       "primary": [{
@@ -1060,7 +1108,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Airjab Launcher",
     "gadget_2": ["Claymore", "Breach Charges"],
-    "icon": "https://i.imgur.com/t6nJQKU.png",
+    "icon": "https://static.serames.me/r6/operators/icon/nomad.png",
     "description": "Rifle attachment shooting an adhesive repulsion device that detonates by proximity",
     "weapons": {
       "primary": [{
@@ -1108,7 +1156,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Tactical Breaching Hammer",
     "gadget_2": ["Frag Grenades", "Stun Grenades"],
-    "icon": "https://i.imgur.com/jpId5OS.png",
+    "icon": "https://static.serames.me/r6/operators/icon/sledge.png",
     "description": "Uses a Breaching Hammer to breach through destructable surfaces",
     "weapons": {
       "primary": [{
@@ -1168,7 +1216,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "EMP Grenades",
     "gadget_2": ["Claymore", "Breach Charges"],
-    "icon": "https://i.imgur.com/pKaqA9m.png",
+    "icon": "https://static.serames.me/r6/operators/icon/thatcher.png",
     "description": "Uses EMP Grenades to disable any electronics in range",
     "weapons": {
       "primary": [{
@@ -1228,7 +1276,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Exothermic Charges",
     "gadget_2": ["Claymore", "Stun Grenades"],
-    "icon": "https://i.imgur.com/h5dWrPx.png",
+    "icon": "https://static.serames.me/r6/operators/icon/thermite.png",
     "description": "Sets an exothermic charge that destroys reinforced walls",
     "weapons": {
       "primary": [{
@@ -1288,7 +1336,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Shock Drones",
     "gadget_2": ["Breach Charges", "Claymore"],
-    "icon": "https://i.imgur.com/kkyEYKd.png",
+    "icon": "https://static.serames.me/r6/operators/icon/twitch.png",
     "description": "Uses two Shock Drones to disable traps or injure enemies. Deploys the first Shock Drone during the preparation phase",
     "weapons": {
       "primary": [{
@@ -1360,7 +1408,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Candelas",
     "gadget_2": ["Breach Charges", "Claymore"],
-    "icon": "https://i.imgur.com/1r0OdkH.png",
+    "icon": "https://static.serames.me/r6/operators/icon/ying.png",
     "description": "Cluster of flash charges that can either be anchored os surfaces or rolled out as a grenade",
     "weapons": {
       "primary": [{
@@ -1408,7 +1456,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "KS79 LIFELINE",
     "gadget_2": ["Breach Charges", "Claymore"],
-    "icon": "https://i.imgur.com/IAi82B9.png",
+    "icon": "https://static.serames.me/r6/operators/icon/zofia.png",
     "description": "Double barrel launcher that can fire both concussion and impact grenades",
     "weapons": {
       "primary": [{
@@ -1456,7 +1504,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Prisma",
     "gadget_2": ["Impact Grenades", "Deployable Shield"],
-    "icon": "https://i.imgur.com/klNKuiw.png",
+    "icon": "https://static.serames.me/r6/operators/icon/alibi.png",
     "description": "Deploys holograms of Alibi and tags hostiles when fired upon",
     "weapons": {
       "primary": [{
@@ -1516,7 +1564,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "CED-1",
     "gadget_2": ["Barbed Wire", "Nitro Cell"],
-    "icon": "https://i.imgur.com/2RzwKAo.png",
+    "icon": "https://static.serames.me/r6/operators/icon/bandit.png",
     "description": "Sets up a Crude Electrical Device that eelectrifies other gadgets and damages anything that comes within contact",
     "weapons": {
       "primary": [{
@@ -1564,7 +1612,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Armor Panel",
     "gadget_2": ["Bulletproof Camera", "Impact Grenades"],
-    "icon": "https://i.imgur.com/gjX6sPL.png",
+    "icon": "https://static.serames.me/r6/operators/icon/castle.png",
     "description": "Sets bulletproof barricades that are more resistant than standard ones",
     "weapons": {
       "primary": [{
@@ -1624,7 +1672,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Silent Step",
     "gadget_2": ["Impact grenades", "Bulletproof Camera"],
-    "icon": "https://i.imgur.com/0jK6Wfg.png",
+    "icon": "https://static.serames.me/r6/operators/icon/caviera.png",
     "description": "Caviera's predatory stealth, the 'Silent Step,' allows her to lurk on her prey, almost inaudible, until it's too late",
     "weapons": {
       "primary": [{
@@ -1672,7 +1720,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "CCE Shield",
     "gadget_2": ["Impact Grenades", "Barbed Wire"],
-    "icon": "https://i.imgur.com/WIaC9ar.png",
+    "icon": "https://static.serames.me/r6/operators/icon/clash.png",
     "description": "Extendable electro shield capable of slowing down enemies, causing damage over time",
     "weapons": {
       "primary": [{
@@ -1720,7 +1768,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Stim Pistol",
     "gadget_2": ["Barbed Wire", "Bulletproof Camera"],
-    "icon": "https://i.imgur.com/1kOGV3Y.png",
+    "icon": "https://static.serames.me/r6/operators/icon/doc.png",
     "description": "Fires a hypodermic shot to revive himself or teammates from a distance. Can also provide a temporary boost",
     "weapons": {
       "primary": [{
@@ -1792,7 +1840,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Yokai Drone",
     "gadget_2": ["Barbed Wire", "Deployable Shield"],
-    "icon": "https://i.imgur.com/oIEmlDY.png",
+    "icon": "https://static.serames.me/r6/operators/icon/echo.png",
     "description": "Hovering drone that releases disorienting sonic bursts. Yokai also transmits a video feed to the Operator",
     "weapons": {
       "primary": [{
@@ -1852,7 +1900,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Grzmot Mines",
     "gadget_2": ["Barbed Wire", "Deployable Shield"],
-    "icon": "https://i.imgur.com/n4drexM.png",
+    "icon": "https://static.serames.me/r6/operators/icon/ela.png",
     "description": "Concussion proximity mines that can be anchored on surfaces, impairing hearing and causeing a dizzying effect",
     "weapons": {
       "primary": [{
@@ -1900,8 +1948,8 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Welcome Mat",
     "gadget_2": ["Bulletproof Camera", "Deployable Shield"],
-    "icon": "https://i.imgur.com/HHX4Mxv.png",
-    "description": "uses a mechanical trap to incapacitate enemies",
+    "icon": "https://static.serames.me/r6/operators/icon/frost.png",
+    "description": "Uses a mechanical trap to incapacitate enemies",
     "weapons": {
       "primary": [{
         "name": "Super 90",
@@ -1948,7 +1996,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Volcán Shield",
     "gadget_2": ["Impact Grenades", "Nitro Cell"],
-    "icon": "https://i.imgur.com/d1VuhJA.png",
+    "icon": "https://static.serames.me/r6/operators/icon/goyo.png",
     "description": "Incendiary bomb that explodes when destroyed, attached to deployable shield",
     "weapons": {
       "primary": [{
@@ -1996,7 +2044,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Active Defense System",
     "gadget_2": ["Bulletproof Camera", "Barbed Wire"],
-    "icon": "https://i.imgur.com/lgU25EB.png",
+    "icon": "https://static.serames.me/r6/operators/icon/jager.png",
     "description": "Uses and Active Defense system to intercept grenades before they detonate",
     "weapons": {
       "primary": [{
@@ -2044,7 +2092,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Rtilla Electroclaws",
     "gadget_2": ["Nitro Cell", "Barbed Wire"],
-    "icon": "https://i.imgur.com/NM9WSWb.png",
+    "icon": "https://static.serames.me/r6/operators/icon/kaid.png",
     "description": "Electrifies reinforced walls and hatches, barbed wire, and deployable shields in its effective area",
     "weapons": {
       "primary": [{
@@ -2092,7 +2140,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Entry Denial Devices",
     "gadget_2": ["Impact Grenades", "Nitro Cell"],
-    "icon": "https://i.imgur.com/OKzZo1t.png",
+    "icon": "https://static.serames.me/r6/operators/icon/kapkan.png",
     "description": "Sets booby traps on windows and door frames",
     "weapons": {
       "primary": [{
@@ -2152,7 +2200,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Gu Mines",
     "gadget_2": ["Impact Grenades", "Bulletproof Camera"],
-    "icon": "https://i.imgur.com/bLtJv4W.png",
+    "icon": "https://static.serames.me/r6/operators/icon/lesion.png",
     "description": "Cloaked toxic mines that inject a compound, injuring opponents and limiting their speed",
     "weapons": {
       "primary": [{
@@ -2200,7 +2248,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Evil Eye",
     "gadget_2": ["Barbed Wire", "Impact Grenades"],
-    "icon": "https://i.imgur.com/N23dKGN.png",
+    "icon": "https://static.serames.me/r6/operators/icon/maestro.png",
     "description": "A remote controlled bulletproof camera armed with a high-energy laser",
     "weapons": {
       "primary": [{
@@ -2255,12 +2303,60 @@
       }]
     }
   },
+  "Melusi": {
+    "name": "Melusi",
+    "stats": "1 Armor, 3 Speed",
+    "gadget_1": "Banshee Sonic Defense",
+    "gadget_2": ["Impact Grenades", "Deployable Shield"],
+    "icon": "https://static.serames.me/operators/icon/melusi.png",
+    "description": "<description pending>",
+    "weapons": {
+      "primary": [{
+        "name": "T-5 SMG",
+        "damage": "30",
+        "rof": "900 RPM",
+        "mag_size": "30 + 1",
+        "total_ammo": "181",
+        "sights": "Red Dot, Holographic, Reflex",
+        "barrels": "Suppressor, Flash Hider, Compensator, Muzzle Brake",
+        "grips": "No grips available",
+        "under_barrel": "Laser",
+        "weapon_type": "Submachine Gun",
+        "image": "https://static.serames.me/r6/weapons/T-5 SMG.jpg"
+      }, {
+        "name": "Super 90",
+        "damage": "35",
+        "rof": "Semi-Auto",
+        "mag_size": "8",
+        "total_ammo": "33",
+        "sights": "Red Dot, Holographic, Reflex",
+        "barrels": "No barrels available",
+        "grips": "No grips available",
+        "under_barrel": "Laser",
+        "weapon_type": "Shotgun",
+        "image": "https://static.serames.me/r6/weapons/Super 90.jpg"
+      }],
+      "secondary": [{
+        "name": "RG15",
+        "damage": "38",
+        "rof": "Semi-Auto",
+        "mag_size": "15 + 1",
+        "total_ammo": "61",
+        "sights": "Red Dot (Permanently Equipped)",
+        "barrels": "Suppressor, Muzzle Brake",
+        "grips": "No grips available",
+        "under_barrel": "Laser",
+        "weapon_type": "Handgun",
+        "image": "https://static.serames.me/r6/weapons/RG15.jpg"
+      }]
+    }
+  },
   "Mira": {
     "name": "Mira",
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Black Mirror",
     "gadget_2": ["Barbed Wire", "Nitro Cell"],
-    "icon": "https://i.imgur.com/RX3SXFv.png",
+    "icon": "https://static.serames.me/r6/operators/icon/mira.png",
     "description": "Deploys a one-way bulletproof mirrir on breakable and reinforced walls. Can also be ejected to create a murder hole",
     "weapons": {
       "primary": [{
@@ -2320,7 +2416,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Pest Launcher",
     "gadget_2": ["Barbed Wire", "Nitro Cell"],
-    "icon": "https://i.imgur.com/K17lDFH.png",
+    "icon": "https://static.serames.me/r6/operators/icon/mozzie.png",
     "description": "Launches autonomous bots that latch onto nearby enemy drones, hijacking their controls",
     "weapons": {
       "primary": [{
@@ -2368,7 +2464,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Signal Disruptors",
     "gadget_2": ["Nitro Cell", "Bulletproof Camera"],
-    "icon": "https://i.imgur.com/GbhVU7t.png",
+    "icon": "https://static.serames.me/r6/operators/icon/mute.png",
     "description": "Jams communications for remotely detonated gadgets or drones in its range",
     "weapons": {
       "primary": [{
@@ -2429,7 +2525,7 @@
     "gadget_1": "Remah Dash",
     "gadget_2": ["Barbed Wire", "Bulletproof Camera"],
     "description": "Fast dash that allows for faster roaming, breaches, breakable walls, and pushes back opponents",
-    "icon": "https://imgur.com/5gdjrHa.png",
+    "icon": "https://static.serames.me/r6/operators/icon/oryx.png",
     "weapons": {
       "primary": [{
         "name": "MP5",
@@ -2488,7 +2584,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Heartbeat Sensor",
     "gadget_2": ["Barbed Wire", "Nitro Cell"],
-    "icon": "https://i.imgur.com/hpqPRRJ.png",
+    "icon": "https://static.serames.me/r6/operators/icon/pulse.png",
     "description": "Detects heartbeats at a short distance through obstacles",
     "weapons": {
       "primary": [{
@@ -2548,7 +2644,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Armor Pack",
     "gadget_2": ["Barbed Wire", "Impact Grenades"],
-    "icon": "https://i.imgur.com/53ymvFU.png",
+    "icon": "https://static.serames.me/r6/operators/icon/rook.png",
     "description": "Drops a supply bag full of armor plates for his teammates to use",
     "weapons": {
       "primary": [{
@@ -2620,7 +2716,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Remote Gas Grenades",
     "gadget_2": ["Deployable Shield", "Barbed Wire"],
-    "icon": "https://i.imgur.com/aeLHeGQ.png",
+    "icon": "https://static.serames.me/r6/operators/icon/smoke.png",
     "description": "Sets remote detonated toxic gas charges",
     "weapons": {
       "primary": [{
@@ -2680,7 +2776,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Mounted LMG",
     "gadget_2": ["Barbed Wire", "Deployable Shield"],
-    "icon": "https://i.imgur.com/HtnjUQR.png",
+    "icon": "https://static.serames.me/r6/operators/icon/tachanka.png",
     "description": "Deploys a Mounted LMG with a ballistic shield protecting the head from frontal shots",
     "weapons": {
       "primary": [{
@@ -2740,7 +2836,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Black Eyes",
     "gadget_2": ["Deployable Shield", "Nitro Cell"],
-    "icon": "https://i.imgur.com/iVx1QX7.png",
+    "icon": "https://static.serames.me/r6/operators/icon/valkyrie.png",
     "description": "Can set up 'Black Eye' cameras, feed accessible by while team via observation tools",
     "weapons": {
       "primary": [{
@@ -2788,7 +2884,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "ERC-7",
     "gadget_2": ["Bulletproof Camera", "Impact Grenade"],
-    "icon": "https://i.imgur.com/MserL5u.png",
+    "icon": "https://static.serames.me/r6/operators/icon/vigil.png",
     "description": "Vigil scans surrounding devices to wipe his image from cameras and drones",
     "weapons": {
       "primary": [{
@@ -2848,7 +2944,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Mag-NET",
     "gadget_2": ["Barbed Wire", "Deployable Shield"],
-    "icon": "https://i.imgur.com/J2VCNDY.png",
+    "icon": "https://static.serames.me/r6/operators/icon/wamai.png",
     "description": "Thrown adhesive gadget that affects and captures an opponent's projectile, and then self-destructs to detonate it.",
     "weapons": {
       "primary": [{
@@ -2908,7 +3004,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Glance Smart Glasses",
     "gadget_2": ["Deployable Shield", "Nitro Cell"],
-    "icon": "https://i.imgur.com/3gyG61V.png",
+    "icon": "https://static.serames.me/r6/operators/icon/warden.png",
     "description": "Eyewear that improves visibility in smoke while standing still. Can also be activated to protect against or reduce flash blindness",
     "weapons": {
       "primary": [{
