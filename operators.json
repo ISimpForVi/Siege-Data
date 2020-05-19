@@ -5,7 +5,7 @@
     "gadget_1": "S.E.L.M.A Aqua Breacher",
     "gadget_2": ["Breach Charges", "Smoke Grenades"],
     "icon": "https://static.serames.me/r6/operators/icon/ace.png",
-    "description": "<description pending>",
+    "description": "Thrown gagdet that deploys hydraulic pressure pellets to breach breakable and reinforced surfaces",
     "weapons": {
       "primary": [{
         "name": "AK-12",
@@ -2309,7 +2309,7 @@
     "gadget_1": "Banshee Sonic Defense",
     "gadget_2": ["Impact Grenades", "Deployable Shield"],
     "icon": "https://static.serames.me/operators/icon/melusi.png",
-    "description": "<description pending>",
+    "description": "Deployable bulletproof gadget which emits sound to slow down opponents in range",
     "weapons": {
       "primary": [{
         "name": "T-5 SMG",
