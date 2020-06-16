@@ -861,17 +861,17 @@
         "weapon_type": "Machine Pistol",
         "image": "https://static.serames.me/r6/weapons/C75 Auto.jpg"
       }, {
-        "name": "P226 Mk 25",
-        "damage": "53",
-        "rof": "Semi-Auto",
-        "mag_size": "15 + 1",
-        "total_ammo": "76",
-        "sights": "No sights available",
-        "barrels": "Suppressor, Muzzle Brake",
+        "name": "SPSMG9",
+        "damage": "30",
+        "rof": "980 RPM",
+        "mag_size": "20 + 1",
+        "total_ammo": "121",
+        "sights": "Reflex (Permenantly Equipped)",
+        "barrels": "Suppressor, Flash Hider, Compensator",
         "grips": "No grips available",
         "under_barrel": "Laser",
-        "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P226 Mk 25.jpg"
+        "weapon_type": "Machine Pistol",
+        "image": "https://static.serames.me/r6/weapons/SPSMG9.jpg"
       }]
     }
   },
@@ -1148,6 +1148,18 @@
         "under_barrel": "Laser",
         "weapon_type": "Handgun",
         "image": "https://static.serames.me/r6/weapons/.44 Mag Semi-Auto.jpg"
+      }, {
+        "name": "PRB92",
+        "damage": "42",
+        "rof": "Semi-Auto",
+        "mag_size": "15 + 1",
+        "total_ammo": "91",
+        "sights": "No sights available",
+        "barrels": "Suppressor, Muzzle Brake",
+        "grips": "No grips available",
+        "under_barrel": "Laser",
+        "weapon_type": "Handgun",
+        "image": "https://static.serames.me/r6/weapons/PRB92.jpg"
       }]
     }
   },
@@ -1521,7 +1533,7 @@
         "image": "https://static.serames.me/r6/weapons/Mx4 Storm.jpg"
       }, {
         "name": "ACS12",
-        "damage": "27",
+        "damage": "59",
         "rof": "300 RPM",
         "mag_size": "30 + 1",
         "total_ammo": "121",
@@ -1611,7 +1623,7 @@
     "name": "Castle",
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Armor Panel",
-    "gadget_2": ["Bulletproof Camera", "Impact Grenades"],
+    "gadget_2": ["Bulletproof Camera", "Proximity Alarms"],
     "icon": "https://static.serames.me/r6/operators/icon/castle.png",
     "description": "Sets bulletproof barricades that are more resistant than standard ones",
     "weapons": {
@@ -1671,7 +1683,7 @@
     "name": "Caviera",
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Silent Step",
-    "gadget_2": ["Impact grenades", "Bulletproof Camera"],
+    "gadget_2": ["Impact grenades", "Proximity Alarms"],
     "icon": "https://static.serames.me/r6/operators/icon/caviera.png",
     "description": "Caviera's predatory stealth, the 'Silent Step,' allows her to lurk on her prey, almost inaudible, until it's too late",
     "weapons": {
@@ -1754,7 +1766,7 @@
         "rof": "980 RPM",
         "mag_size": "20 + 1",
         "total_ammo": "121",
-        "sights": "No sights available",
+        "sights": "Reflex (Permenantly Equipped)",
         "barrels": "Suppressor, Flash Hider, Compensator",
         "grips": "No grips available",
         "under_barrel": "Laser",
@@ -1839,7 +1851,7 @@
     "name": "Echo",
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Yokai Drone",
-    "gadget_2": ["Barbed Wire", "Deployable Shield"],
+    "gadget_2": ["Barbed Wire", "Impact Grenades"],
     "icon": "https://static.serames.me/r6/operators/icon/echo.png",
     "description": "Hovering drone that releases disorienting sonic bursts. Yokai also transmits a video feed to the Operator",
     "weapons": {
@@ -1995,7 +2007,7 @@
     "name": "Goyo",
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Volcán Shield",
-    "gadget_2": ["Impact Grenades", "Nitro Cell"],
+    "gadget_2": ["Proximity Alarms", "Nitro Cell"],
     "icon": "https://static.serames.me/r6/operators/icon/goyo.png",
     "description": "Incendiary bomb that explodes when destroyed, attached to deployable shield",
     "weapons": {
@@ -2132,6 +2144,18 @@
         "under_barrel": "Laser",
         "weapon_type": "Handgun",
         "image": "https://static.serames.me/r6/weapons/.44 Mag Semi-Auto.jpg"
+      }, {
+        "name": "LFP586",
+        "damage": "78",
+        "rof": "Semi-Auto",
+        "mag_size": " + 1",
+        "total_ammo": "42",
+        "sights": "No sights available",
+        "barrels": "No barrels available",
+        "grips": "No grips available",
+        "under_barrel": "Laser",
+        "weapon_type": "Handgun",
+        "image": "https://static.serames.me/r6/weapons/LFP586.jpg"
       }]
     }
   },
@@ -2265,7 +2289,7 @@
         "image": "https://static.serames.me/r6/weapons/ALDA 5.56.jpg"
       }, {
         "name": "ACS12",
-        "damage": "27",
+        "damage": "59",
         "rof": "300 RPM",
         "mag_size": "30 + 1",
         "total_ammo": "121",
@@ -2307,7 +2331,7 @@
     "name": "Melusi",
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Banshee Sonic Defense",
-    "gadget_2": ["Impact Grenades", "Deployable Shield"],
+    "gadget_2": ["Impact Grenades", "Nitro Cell"],
     "icon": "https://static.serames.me/operators/icon/melusi.png",
     "description": "Deployable bulletproof gadget which emits sound to slow down opponents in range",
     "weapons": {
@@ -2355,7 +2379,7 @@
     "name": "Mira",
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Black Mirror",
-    "gadget_2": ["Barbed Wire", "Nitro Cell"],
+    "gadget_2": ["Proximity Alarms", "Nitro Cell"],
     "icon": "https://static.serames.me/r6/operators/icon/mira.png",
     "description": "Deploys a one-way bulletproof mirrir on breakable and reinforced walls. Can also be ejected to create a murder hole",
     "weapons": {
@@ -2523,7 +2547,7 @@
     "name": "Oryx",
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Remah Dash",
-    "gadget_2": ["Barbed Wire", "Bulletproof Camera"],
+    "gadget_2": ["Barbed Wire", "Proximity Alarms"],
     "description": "Fast dash that allows for faster roaming, breaches, breakable walls, and pushes back opponents",
     "icon": "https://static.serames.me/r6/operators/icon/oryx.png",
     "weapons": {
@@ -2535,7 +2559,7 @@
         "total_ammo": "181",
         "sights": "Red Dot, Holographic, Reflex",
         "barrels": "Suppressor, Flash Hider, Muzzle Brake",
-        "grips": "Vertical Grip",
+        "grips": "Vertical Grip, Angled Grip",
         "under_barrel": "Laser",
         "weapon_type": "Submachine Gun",
         "image": "https://static.serames.me/r6/weapons/MP5.jpg"
@@ -2643,7 +2667,7 @@
     "name": "Rook",
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Armor Pack",
-    "gadget_2": ["Barbed Wire", "Impact Grenades"],
+    "gadget_2": ["Proximity Alarms", "Impact Grenades"],
     "icon": "https://static.serames.me/r6/operators/icon/rook.png",
     "description": "Drops a supply bag full of armor plates for his teammates to use",
     "weapons": {
@@ -2775,7 +2799,7 @@
     "name": "Tachanka",
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Mounted LMG",
-    "gadget_2": ["Barbed Wire", "Deployable Shield"],
+    "gadget_2": ["Barbed Wire", "Proximity Alarms"],
     "icon": "https://static.serames.me/r6/operators/icon/tachanka.png",
     "description": "Deploys a Mounted LMG with a ballistic shield protecting the head from frontal shots",
     "weapons": {
@@ -2943,7 +2967,7 @@
     "name": "Wamai",
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Mag-NET",
-    "gadget_2": ["Barbed Wire", "Deployable Shield"],
+    "gadget_2": ["Proximity Alarms", "Deployable Shield"],
     "icon": "https://static.serames.me/r6/operators/icon/wamai.png",
     "description": "Thrown adhesive gadget that affects and captures an opponent's projectile, and then self-destructs to detonate it.",
     "weapons": {
