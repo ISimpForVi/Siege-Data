@@ -65,7 +65,7 @@
     "1": ["Floor 1", "https://i.imgur.com/SeJzRlX.jpg"],
     "2": ["Floor 2", "https://i.imgur.com/hwmVkjs.jpg"],
     "R": ["Roof", "https://i.imgur.com/RRCSKOp.jpg"],
-    "rotations": ["quick match"]
+    "rotations": []
   },
   "HEREFORD_BASE": {
     "name": "Hereford Base",
@@ -73,7 +73,7 @@
     "1": ["Floor 1", "https://i.imgur.com/apo73JX.jpg"],
     "2": ["Floor 2", "https://i.imgur.com/fLBSM3H.jpg"],
     "3": ["Floor 3", "https://i.imgur.com/zVEcl4s.jpg"],
-    "rotations": ["quick match"]
+    "rotations": []
   },
   "HOUSE": {
     "name": "House",
@@ -98,7 +98,7 @@
     "1": ["Floor 1", ""],
     "2": ["Floor 2", ""],
     "R": ["Roof", "https://i.imgur.com/F3gcjoi.jpg"],
-    "rotations": ["ranked"]
+    "rotations": ["ranked", "quick match"]
   },
   "OREGON": {
     "name": "Oregon",
@@ -114,7 +114,7 @@
     "1": ["Floor 1", "https://i.imgur.com/hLlMU47.jpg"],
     "2": ["Floor 2", "https://i.imgur.com/HFL6pkQ.jpg"],
     "R": ["Roof", "https://i.imgur.com/1CjPECr.jpg"],
-    "rotations": ["ranked", "quick match"]
+    "rotations": ["ranked"]
   },
   "PRESIDENTIAL_PLANE": {
     "name": "Presidential Plane",
@@ -129,7 +129,7 @@
     "1": ["Floor 1", "https://i.imgur.com/r5O0BVE.jpg"],
     "2": ["Floor 2", "https://i.imgur.com/cqmgv1S.jpg"],
     "R": ["Roof", "https://i.imgur.com/dMvyNjx.jpg"],
-    "rotations": []
+    "rotations": ["quick match"]
   },
   "THEME_PARK": {
     "name": "Theme Park",
@@ -144,7 +144,7 @@
     "2": ["Floor 2", "https://i.imgur.com/qyEsbQb.jpg"],
     "3": ["Floor 3", "https://i.imgur.com/ySyXphE.jpg"],
     "R": ["Roof", "https://i.imgur.com/MPIQ5M0.jpg"],
-    "rotations": []
+    "rotations": ["quick match"]
   },
   "VILLA": {
     "name": "Villa",
