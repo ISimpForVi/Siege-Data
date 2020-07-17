@@ -5,6 +5,7 @@
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Bank/floor_1.jpg"],
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Bank/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Bank/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Bank/splash.jpg",
     "rotations": ["newcomer", "ranked", "quick match"]
   },
   "BARTLETT_UNIVERSITY": {
@@ -12,6 +13,7 @@
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Bartlett%20University/floor_1.jpg"],
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Bartlett%20University/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Bartlett%20University/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Bartlett%20University/splash.jpg",
     "rotations": []
   },
   "BORDER": {
@@ -19,6 +21,7 @@
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Border/floor_1.jpg"],
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Border/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Border/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Border/splash.png",
     "rotations": ["ranked", "quick match"]
   },
   "CHALET": {
@@ -27,6 +30,7 @@
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Chalet/floor_1.jpg"],
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Chalet/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Chalet/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Chalet/splash.png",
     "rotations": ["newcomer", "ranked"]
   },
   "CLUBHOUSE": {
@@ -35,6 +39,7 @@
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Clubhouse/floor_1.jpg"],
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Clubhouse/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Clubhouse/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Clubhouse/splash.png",
     "rotations": ["ranked", "quick match"]
   },
   "COASTLINE": {
@@ -42,6 +47,7 @@
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Coastline/floor_1.jpg"],
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Coastline/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Coastline/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Coastline/splash.png",
     "rotations": ["ranked", "quick match"]
   },
   "CONSULATE": {
@@ -50,6 +56,7 @@
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Consulate/floor_1.jpg"],
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Consulate/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Consulate/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Consulate/splash.png",
     "rotations": ["newcomer", "ranked", "quick match"]
   },
   "FAVELA": {
@@ -58,6 +65,7 @@
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Favela/floor_2.jpg"],
     "3": ["Floor 3", "https://static.serames.me/r6/maps/Favela/floor_3.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Favela/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Favela/splash.png",
     "rotations": ["quick match"]
   },
   "FORTRESS": {
@@ -65,6 +73,7 @@
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Fortress/floor_1.jpg"],
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Fortress/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Fortress/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Fortress/splash.png",
     "rotations": ["quick match"]
   },
   "HEREFORD_BASE": {
@@ -74,14 +83,16 @@
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Hereford%20Base/floor_2.jpg"],
     "3": ["Floor 3", "https://static.serames.me/r6/maps/Hereford%20Base/floor_3.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Hereford%20Base/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Hereford%20Base/splash.png",
     "rotations": []
   },
   "HOUSE": {
     "name": "House",
-    "B": ["Basement", "https://static.serames.me/r6/maps/House/floor_basement.jpg"],
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/House/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/House/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/House/floor_roof.jpg"],
+    "B": ["Basement", "https://static.serames.me/r6/maps/House/floor_basement.png"],
+    "1": ["Floor 1", "https://static.serames.me/r6/maps/House/floor_1.png"],
+    "2": ["Floor 2", "https://static.serames.me/r6/maps/House/floor_2.png"],
+    "R": ["Roof", "https://static.serames.me/r6/maps/House/floor_roof.png"],
+    "splash": "https://static.serames.me/r6/maps/House/splash.png",
     "rotations": ["quick match"]
   },
   "KAFE_DOSTOYEVSKY": {
@@ -90,6 +101,7 @@
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Kafe%20Dostoyevsky/floor_2.jpg"],
     "3": ["Floor 3", "https://static.serames.me/r6/maps/Kafe%20Dostoyevsky/floor_3.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Kafe%20Dostoyevsky/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Kafe%20Dostoyevsky/splash.png",
     "rotations": ["ranked", "quick match"]
   },
   "KANAL": {
@@ -99,6 +111,7 @@
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Kanal/floor_1.jpg"],
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Kanal/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Kanal/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Kanal/splash.png",
     "rotations": ["ranked", "quick match"]
   },
   "OREGON": {
@@ -108,6 +121,7 @@
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Oregon/floor_2.jpg"],
     "3": ["Floor 3", "https://static.serames.me/r6/maps/Oregon/floor_3.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Oregon/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Oregon/splash.png",
     "rotations": ["ranked", "quick match"]
   },
   "OUTBACK": {
@@ -115,6 +129,7 @@
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Outback/floor_1.jpg"],
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Outback/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Outback/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Outback/splash.png",
     "rotations": ["ranked"]
   },
   "PRESIDENTIAL_PLANE": {
@@ -123,6 +138,7 @@
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Presidential%20Plane/floor_1.jpg"],
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Presidential%20Plane/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Presidential%20Plane/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Presidential%20Plane/splash.png",
     "rotations": ["quick match"]
   },
   "SKYSCRAPER": {
@@ -130,6 +146,7 @@
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Skyscraper/floor_1.jpg"],
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Skyscraper/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Skyscraper/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Skyscraper/splash.png",
     "rotations": []
   },
   "STADIUM": {
@@ -139,6 +156,7 @@
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Stadium/floor_2.jpg"],
     "R1": ["Roof 1", "https://static.serames.me/r6/maps/Stadium/floor_roof_1.jpg"],
     "R2": ["Roof 2", "https://static.serames.me/r6/maps/Stadium/floor_roof_2.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Stadium/splash.jpg",
     "rotations": []
   },
   "THEME_PARK": {
@@ -146,6 +164,7 @@
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Theme%20Park/floor_1.jpg"],
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Theme%20Park/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Theme%20Park/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Theme%20Park/splash.png",
     "rotations": ["ranked", "quick match"]
   },
   "TOWER": {
@@ -153,6 +172,7 @@
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Tower/floor_1.jpg"],
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Tower/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Tower/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Tower/splash.png",
     "rotations": []
   },
   "VILLA": {
@@ -161,6 +181,7 @@
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Villa/floor_1.jpg"],
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Villa/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Villa/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Villa/splash.png",
     "rotations": ["ranked", "quick match"]
   },
   "YACHT": {
@@ -170,6 +191,7 @@
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Yacht/floor_2.jpg"],
     "3": ["Floor 3", "https://static.serames.me/r6/maps/Yacht/floor_3.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Yacht/floor_roof.jpg"],
+    "splash": "https://static.serames.me/r6/maps/Yacht/splash.png",
     "rotations": []
   }
 }
