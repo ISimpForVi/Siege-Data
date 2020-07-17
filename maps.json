@@ -132,6 +132,15 @@
     "R": ["Roof", "https://static.serames.me/r6/maps/Skyscraper/floor_roof.jpg"],
     "rotations": []
   },
+  "STADIUM": {
+    "name": "Stadium",
+    "B": ["Basement", "https://static.serames.me/r6/maps/Stadium/floor_basement.jpg"],
+    "1": ["Floor 1", "https://static.serames.me/r6/maps/Stadium/floor_1.jpg"],
+    "2": ["Floor 2", "https://static.serames.me/r6/maps/Stadium/floor_2.jpg"],
+    "R1": ["Roof 1", "https://static.serames.me/r6/maps/Stadium/floor_roof_1.jpg"],
+    "R2": ["Roof 2", "https://static.serames.me/r6/maps/Stadium/floor_roof_2.jpg"],
+    "rotations": []
+  },
   "THEME_PARK": {
     "name": "Theme Park",
     "1": ["Floor 1", "https://static.serames.me/r6/maps/Theme%20Park/floor_1.jpg"],
