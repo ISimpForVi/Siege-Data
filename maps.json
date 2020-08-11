@@ -66,7 +66,7 @@
     "3": ["Floor 3", "https://static.serames.me/r6/maps/Favela/floor_3.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Favela/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Favela/splash.png",
-    "rotations": ["quick match"]
+    "rotations": []
   },
   "FORTRESS": {
     "name": "Fortress",
@@ -74,7 +74,7 @@
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Fortress/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Fortress/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Fortress/splash.png",
-    "rotations": ["quick match"]
+    "rotations": []
   },
   "HEREFORD_BASE": {
     "name": "Hereford Base",
@@ -84,7 +84,7 @@
     "3": ["Floor 3", "https://static.serames.me/r6/maps/Hereford%20Base/floor_3.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Hereford%20Base/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Hereford%20Base/splash.png",
-    "rotations": []
+    "rotations": ["quick match"]
   },
   "HOUSE": {
     "name": "House",
@@ -130,7 +130,7 @@
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Outback/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Outback/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Outback/splash.png",
-    "rotations": ["ranked"]
+    "rotations": ["ranked", "quick match"]
   },
   "PRESIDENTIAL_PLANE": {
     "name": "Presidential Plane",
@@ -139,7 +139,7 @@
     "2": ["Floor 2", "https://static.serames.me/r6/maps/Presidential%20Plane/floor_2.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Presidential%20Plane/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Presidential%20Plane/splash.png",
-    "rotations": ["quick match"]
+    "rotations": []
   },
   "SKYSCRAPER": {
     "name": "Skyscraper",
@@ -192,6 +192,6 @@
     "3": ["Floor 3", "https://static.serames.me/r6/maps/Yacht/floor_3.jpg"],
     "R": ["Roof", "https://static.serames.me/r6/maps/Yacht/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Yacht/splash.png",
-    "rotations": []
+    "rotations": ["quick match"]
   }
 }
