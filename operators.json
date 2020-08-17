@@ -51,7 +51,7 @@
     "name": "Amaru",
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Garra Hook",
-    "gadget_2": ["Claymore", "Stun Grenades"],
+    "gadget_2": ["Hard Breach Charge", "Stun Grenades"],
     "icon": "https://static.serames.me/r6/operators/icon/amaru.png",
     "description": "A high-tensile grappling gun used for fast access to rappel points and open hatches, or to enter via exterior windows at limited distances",
     "weapons": {
@@ -303,7 +303,7 @@
     "name": "Capitao",
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Tactical Crossbow",
-    "gadget_2": ["Claymore", "Stun Grenades"],
+    "gadget_2": ["Claymore", "Hard Breach Charge"],
     "icon": "https://static.serames.me/r6/operators/icon/capitao.png",
     "description": "Tactical crossbow that firres asphyxiating bolts and micro smoke grenades",
     "weapons": {
@@ -411,7 +411,7 @@
     "name": "Finka",
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Adrenal Surge",
-    "gadget_2": ["Breach Charges", "Frag Grenades"],
+    "gadget_2": ["Hard Breach Charge", "Frag Grenades"],
     "icon": "https://static.serames.me/r6/operators/icon/finka.png",
     "description": "The nanobots give the team a brief gain in HP and revive allies in a DBNO state",
     "weapons": {
@@ -483,7 +483,7 @@
     "name": "Fuze",
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Cluster Charge",
-    "gadget_2": ["Breach Charges", "Smoke Grenade"],
+    "gadget_2": ["Breach Charges", "Hard Breach Charge"],
     "icon": "https://static.serames.me/r6/operators/icon/fuze.png",
     "description": "Uses Cluster Charges that pierce and stick to walls, releasing sub-grenades on the opposing side",
     "weapons": {
@@ -879,7 +879,7 @@
     "name": "Lion",
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "EE-ONE-D",
-    "gadget_2": ["Claymore", "Stun Grenades"],
+    "gadget_2": ["Hard Breach Charge", "Stun Grenades"],
     "icon": "https://static.serames.me/r6/operators/icon/lion.png",
     "description": "The EE-ONE-D detects enemy movement, tagging their position during the scan",
     "weapons": {
@@ -999,7 +999,7 @@
     "name": "Montange",
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Extendable Shield",
-    "gadget_2": ["Stun Grenades", "Smoke Grenades"],
+    "gadget_2": ["Hard Breach Charge", "Smoke Grenades"],
     "icon": "https://static.serames.me/r6/operators/icon/montange.png",
     "description": "can extend his Extendable Shield to offer full protection while standing",
     "weapons": {
@@ -1047,7 +1047,7 @@
     "name": "Nokk",
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "HEL Presence Reduction",
-    "gadget_2": ["Frag Grenades", "Breach Charges"],
+    "gadget_2": ["Frag Grenades", "Hard Breach Charge"],
     "icon": "https://static.serames.me/r6/operators/icon/nokk.png",
     "description": "Counter-intel that wipes Nokk's image from observation tools and reduces her noise, with exceptions",
     "weapons": {
@@ -1419,7 +1419,7 @@
     "name": "Ying",
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Candelas",
-    "gadget_2": ["Breach Charges", "Claymore"],
+    "gadget_2": ["Hard Breach Charge", "Claymore"],
     "icon": "https://static.serames.me/r6/operators/icon/ying.png",
     "description": "Cluster of flash charges that can either be anchored to surfaces or rolled out as a grenade",
     "weapons": {
