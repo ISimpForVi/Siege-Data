@@ -15,6 +15,7 @@
         "total_ammo": "241",
         "sights": ["Red Dot", "Holographic", "Reflex", "Scope 2.0x"],
         "barrels": ["Suppressor", "Flash Hider", "Compensator", "Muzzle Brake"],
+        "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
         "image": "https://static.serames.me/r6/weapons/AK-12.jpg"
