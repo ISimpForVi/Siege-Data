@@ -2389,7 +2389,7 @@
         "rof": "1200 RPM",
         "mag_size": "25 + 1",
         "total_ammo": "176",
-        "sights": "Red Dot, Holographic, Compensator, Muzzle Brake",
+        "sights": "Red Dot, Holographic, Reflex",
         "barrels": "Suppressor, Flash Hider, Compensator, Muzzle Brake",
         "grips": "Vertical Grip",
         "under_barrel": "Laser",
