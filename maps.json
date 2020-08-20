@@ -1,197 +1,241 @@
 {
   "BANK": {
     "name": "Bank",
-    "B": ["Basement", "https://static.serames.me/r6/maps/Bank/floor_basement.jpg"],
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Bank/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Bank/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Bank/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Bank/splash.jpg",
-    "rotations": ["newcomer", "ranked", "quick match"]
+    "rotations": ["newcomer", "ranked", "quick match"],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Bank/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Bank/floor_2.jpg",
+      "Basement": "https://static.serames.me/r6/maps/Bank/floor_basement.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Bank/floor_roof.jpg"
+    }
   },
   "BARTLETT_UNIVERSITY": {
     "name": "Bartlett University",
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Bartlett%20University/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Bartlett%20University/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Bartlett%20University/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Bartlett%20University/splash.jpg",
-    "rotations": []
+    "rotations": [],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Bartlett%20University/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Bartlett%20University/floor_2.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Bartlett%20University/floor_roof.jpg"
+    }
   },
   "BORDER": {
     "name": "Border",
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Border/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Border/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Border/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Border/splash.png",
-    "rotations": ["ranked", "quick match"]
+    "rotations": ["ranked", "quick match"],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Border/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Border/floor_2.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Border/floor_roof.jpg"
+    }
   },
   "CHALET": {
     "name": "Chalet",
-    "B": ["Basement", "https://static.serames.me/r6/maps/Chalet/floor_basement.jpg"],
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Chalet/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Chalet/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Chalet/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Chalet/splash.png",
-    "rotations": ["newcomer", "ranked"]
+    "rotations": ["newcomer", "ranked"],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Chalet/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Chalet/floor_2.jpg",
+      "Basement": "https://static.serames.me/r6/maps/Chalet/floor_basement.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Chalet/floor_roof.jpg"
+    }
   },
   "CLUBHOUSE": {
     "name": "Clubhouse",
-    "B": ["Basement", "https://static.serames.me/r6/maps/Clubhouse/floor_basement.jpg"],
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Clubhouse/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Clubhouse/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Clubhouse/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Clubhouse/splash.png",
-    "rotations": ["ranked", "quick match"]
+    "rotations": ["ranked", "quick match"],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Clubhouse/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Clubhouse/floor_2.jpg",
+      "Basement": "https://static.serames.me/r6/maps/Clubhouse/floor_basement.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Clubhouse/floor_roof.jpg"
+    }
   },
   "COASTLINE": {
     "name": "Coastline",
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Coastline/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Coastline/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Coastline/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Coastline/splash.png",
-    "rotations": ["ranked", "quick match"]
+    "rotations": ["ranked", "quick match"],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Coastline/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Coastline/floor_2.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Coastline/floor_roof.jpg"
+    }
   },
   "CONSULATE": {
     "name": "Consulate",
-    "B": ["Basement", "https://static.serames.me/r6/maps/Consulate/floor_basement.jpg"],
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Consulate/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Consulate/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Consulate/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Consulate/splash.png",
-    "rotations": ["newcomer", "ranked", "quick match"]
+    "rotations": ["newcomer", "ranked", "quick match"],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Consulate/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Consulate/floor_2.jpg",
+      "Basement": "https://static.serames.me/r6/maps/Consulate/floor_basement.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Consulate/floor_roof.jpg"
+    }
   },
   "FAVELA": {
     "name": "Favela",
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Favela/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Favela/floor_2.jpg"],
-    "3": ["Floor 3", "https://static.serames.me/r6/maps/Favela/floor_3.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Favela/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Favela/splash.png",
-    "rotations": []
+    "rotations": [],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Favela/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Favela/floor_2.jpg",
+      "Floor_3": "https://static.serames.me/r6/maps/Favela/floor_3.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Favela/floor_roof.jpg"
+    }
   },
   "FORTRESS": {
     "name": "Fortress",
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Fortress/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Fortress/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Fortress/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Fortress/splash.png",
-    "rotations": []
+    "rotations": [],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Fortress/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Fortress/floor_2.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Fortress/floor_roof.jpg"
+    }
   },
   "HEREFORD_BASE": {
     "name": "Hereford Base",
-    "B": ["Basement", "https://static.serames.me/r6/maps/Hereford%20Base/floor_basement.jpg"],
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Hereford%20Base/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Hereford%20Base/floor_2.jpg"],
-    "3": ["Floor 3", "https://static.serames.me/r6/maps/Hereford%20Base/floor_3.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Hereford%20Base/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Hereford%20Base/splash.png",
-    "rotations": ["quick match"]
+    "rotations": ["quick match"],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Hereford%20Base/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Hereford%20Base/floor_2.jpg",
+      "Floor_3": "https://static.serames.me/r6/maps/Hereford%20Base/floor_3.jpg",
+      "Basement": "https://static.serames.me/r6/maps/Hereford%20Base/floor_basement.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Hereford%20Base/floor_roof.jpg"
+    }
   },
   "HOUSE": {
     "name": "House",
-    "B": ["Basement", "https://static.serames.me/r6/maps/House/floor_basement.png"],
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/House/floor_1.png"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/House/floor_2.png"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/House/floor_roof.png"],
     "splash": "https://static.serames.me/r6/maps/House/splash.png",
-    "rotations": ["quick match"]
+    "rotations": ["quick match"],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/House/floor_1.png",
+      "Floor_2": "https://static.serames.me/r6/maps/House/floor_2.png",
+      "Basement": "https://static.serames.me/r6/maps/House/floor_basement.png",
+      "Roof": "https://static.serames.me/r6/maps/House/floor_roof.png"
+    }
   },
   "KAFE_DOSTOYEVSKY": {
     "name": "Kafe Dostoyevsky",
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Kafe%20Dostoyevsky/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Kafe%20Dostoyevsky/floor_2.jpg"],
-    "3": ["Floor 3", "https://static.serames.me/r6/maps/Kafe%20Dostoyevsky/floor_3.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Kafe%20Dostoyevsky/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Kafe%20Dostoyevsky/splash.png",
-    "rotations": ["ranked", "quick match"]
+    "rotations": ["ranked", "quick match"],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Kafe%20Dostoyevsky/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Kafe%20Dostoyevsky/floor_2.jpg",
+      "Floor_3": "https://static.serames.me/r6/maps/Kafe%20Dostoyevsky/floor_3.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Kafe%20Dostoyevsky/floor_roof.jpg"
+    }
   },
   "KANAL": {
     "name": "Kanal",
-    "B1": ["Basement 1", "https://static.serames.me/r6/maps/Kanal/floor_basement_1.jpg"],
-    "B2": ["Basement 2", "https://static.serames.me/r6/maps/Kanal/floor_basement_2.jpg"],
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Kanal/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Kanal/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Kanal/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Kanal/splash.png",
-    "rotations": ["ranked", "quick match"]
+    "rotations": ["ranked", "quick match"],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Kanal/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Kanal/floor_2.jpg",
+      "Basement_1": "https://static.serames.me/r6/maps/Kanal/floor_basement_1.jpg",
+      "Basement_2": "https://static.serames.me/r6/maps/Kanal/floor_basement_2.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Kanal/floor_roof.jpg"
+    }
   },
   "OREGON": {
     "name": "Oregon",
-    "B": ["Basement", "https://static.serames.me/r6/maps/Oregon/floor_basement.jpg"],
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Oregon/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Oregon/floor_2.jpg"],
-    "3": ["Floor 3", "https://static.serames.me/r6/maps/Oregon/floor_3.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Oregon/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Oregon/splash.png",
-    "rotations": ["ranked", "quick match"]
+    "rotations": ["ranked", "quick match"],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Oregon/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Oregon/floor_2.jpg",
+      "Floor_3": "https://static.serames.me/r6/maps/Oregon/floor_3.jpg",
+      "Basement": "https://static.serames.me/r6/maps/Oregon/floor_basement.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Oregon/floor_roof.jpg"
+    }
   },
   "OUTBACK": {
     "name": "Outback",
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Outback/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Outback/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Outback/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Outback/splash.png",
-    "rotations": ["ranked", "quick match"]
+    "rotations": ["ranked", "quick match"],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Outback/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Outback/floor_2.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Outback/floor_roof.jpg"
+    }
   },
   "PRESIDENTIAL_PLANE": {
     "name": "Presidential Plane",
-    "B": ["Basement", "https://static.serames.me/r6/maps/Presidential%20Plane/floor_basement.jpg"],
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Presidential%20Plane/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Presidential%20Plane/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Presidential%20Plane/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Presidential%20Plane/splash.png",
-    "rotations": []
+    "rotations": [],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Presidential%20Plane/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Presidential%20Plane/floor_2.jpg",
+      "Basement": "https://static.serames.me/r6/maps/Presidential%20Plane/floor_basement.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Presidential%20Plane/floor_roof.jpg"
+    }
   },
   "SKYSCRAPER": {
     "name": "Skyscraper",
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Skyscraper/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Skyscraper/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Skyscraper/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Skyscraper/splash.png",
-    "rotations": []
+    "rotations": [],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Skyscraper/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Skyscraper/floor_2.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Skyscraper/floor_roof.jpg"
+    }
   },
   "STADIUM": {
     "name": "Stadium",
-    "B": ["Basement", "https://static.serames.me/r6/maps/Stadium/floor_basement.jpg"],
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Stadium/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Stadium/floor_2.jpg"],
-    "R1": ["Roof 1", "https://static.serames.me/r6/maps/Stadium/floor_roof_1.jpg"],
-    "R2": ["Roof 2", "https://static.serames.me/r6/maps/Stadium/floor_roof_2.jpg"],
     "splash": "https://static.serames.me/r6/maps/Stadium/splash.jpg",
-    "rotations": []
+    "rotations": [],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Stadium/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Stadium/floor_2.jpg",
+      "Basement": "https://static.serames.me/r6/maps/Stadium/floor_basement.jpg",
+      "Roof_1": "https://static.serames.me/r6/maps/Stadium/floor_roof_1.jpg",
+      "Roof_2": "https://static.serames.me/r6/maps/Stadium/floor_roof_2.jpg"
+    }
   },
   "THEME_PARK": {
     "name": "Theme Park",
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Theme%20Park/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Theme%20Park/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Theme%20Park/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Theme%20Park/splash.png",
-    "rotations": ["ranked", "quick match"]
+    "rotations": ["ranked", "quick match"],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Theme%20Park/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Theme%20Park/floor_2.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Theme%20Park/floor_roof.jpg"
+    }
   },
   "TOWER": {
     "name": "Tower",
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Tower/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Tower/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Tower/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Tower/splash.png",
-    "rotations": []
+    "rotations": [],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Tower/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Tower/floor_2.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Tower/floor_roof.jpg"
+    }
   },
   "VILLA": {
     "name": "Villa",
-    "B": ["Basement", "https://static.serames.me/r6/maps/Villa/floor_basement.jpg"],
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Villa/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Villa/floor_2.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Villa/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Villa/splash.png",
-    "rotations": ["ranked", "quick match"]
+    "rotations": ["ranked", "quick match"],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Villa/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Villa/floor_2.jpg",
+      "Basement": "https://static.serames.me/r6/maps/Villa/floor_basement.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Villa/floor_roof.jpg"
+    }
   },
   "YACHT": {
     "name": "Yacht",
-    "B": ["Basement", "https://static.serames.me/r6/maps/Yacht/floor_basement.jpg"],
-    "1": ["Floor 1", "https://static.serames.me/r6/maps/Yacht/floor_1.jpg"],
-    "2": ["Floor 2", "https://static.serames.me/r6/maps/Yacht/floor_2.jpg"],
-    "3": ["Floor 3", "https://static.serames.me/r6/maps/Yacht/floor_3.jpg"],
-    "R": ["Roof", "https://static.serames.me/r6/maps/Yacht/floor_roof.jpg"],
     "splash": "https://static.serames.me/r6/maps/Yacht/splash.png",
-    "rotations": ["quick match"]
+    "rotations": ["quick match"],
+    "floors": {
+      "Floor_1": "https://static.serames.me/r6/maps/Yacht/floor_1.jpg",
+      "Floor_2": "https://static.serames.me/r6/maps/Yacht/floor_2.jpg",
+      "Floor_3": "https://static.serames.me/r6/maps/Yacht/floor_3.jpg",
+      "Basement": "https://static.serames.me/r6/maps/Yacht/floor_basement.jpg",
+      "Roof": "https://static.serames.me/r6/maps/Yacht/floor_roof.jpg"
+    }
   }
 }
