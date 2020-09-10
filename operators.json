@@ -416,7 +416,7 @@
     "description": "The nanobots give the team a brief gain in HP and revive allies in a DBNO state",
     "weapons": {
       "primary": [{
-        "name": "Spear 308",
+        "name": "Spear .308",
         "damage": "42",
         "rof": "700 RPM",
         "mag_size": "30 + 1",
@@ -901,7 +901,7 @@
         "rof": "Semi-Auto",
         "mag_size": "20 + 1",
         "total_ammo": "101",
-        "sights": ["Red Dot", "Holographic", "Scope 2.0x"],
+        "sights": ["Red Dot", "Holographic", "Reflex", "Scope 3.0x"],
         "barrels": ["Suppressor", "Flash Hider", "Muzzle Brake"],
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
@@ -1237,7 +1237,7 @@
         "rof": "749 RPM",
         "mag_size": "25 + 1",
         "total_ammo": "201",
-        "sights": ["Red Dot", "Holographic", "Reflex", "Scope 2.0x"],
+        "sights": ["Red Dot", "Holographic", "Reflex", "Scope 1.5x", "Scope 2.5x"],
         "barrels": ["Suppressor", "Flash Hider", "Compensator", "Muzzle Brake"],
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
@@ -1472,7 +1472,7 @@
     "description": "Launcher that deploys cameras which can pierce through breakable and reinforced surfaces to surveil either side and shoot a laser.",
     "weapons": {
       "primary": [{
-        "name": "SC3000k",
+        "name": "SC3000K",
         "damage": "45",
         "rof": "800 RPM",
         "mag_size": "25 + 1",

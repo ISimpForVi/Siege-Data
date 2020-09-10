@@ -1363,5 +1363,18 @@
     "under_barrel": "Laser",
     "weapon_type": "Pistol",
     "image": "https://static.serames.me/r6/weapons/Luison.jpg"
-  }
+  },
+  "SC3000K": {
+    "name": "SC3000K",
+    "damage": "45",
+    "rof": "800 RPM",
+    "mag_size": "25 + 1",
+    "total_ammo": "140",
+    "sights": "Red Dot, Holographic, Reflex, Scope 1.5x, Scope 2.0x",
+    "barrels": "Extended Barrel, Suppressor, Compensator, Flash Hider, Muzzle Brake",
+    "grips": "Vertical Grip, Angled Grip",
+    "under_barrel": "Laser",
+    "weapon_type": "Assault Rifle",
+    "image": "https://static.serames.me/r6/weapons/SC3000k.jpg"
+  },
 }
