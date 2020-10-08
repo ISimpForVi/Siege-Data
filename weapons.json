@@ -10,7 +10,7 @@
     "grips": "Vertical Grip",
     "under_barrel": "Laser",
     "weapon_type": "Marksman Rifle",
-    "image": "https://static.serames.me/r6/weapons/417.jpg"
+    "image": "https://static.ser.moe/r6/weapons/417.jpg"
   },
   "L85A2": {
     "name": "L85A2",
@@ -23,7 +23,7 @@
     "grips": "Vertical",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/L85A2.jpg"
+    "image": "https://static.ser.moe/r6/weapons/L85A2.jpg"
   },
   "AR33": {
     "name": "AR33",
@@ -36,7 +36,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/AR33.jpg"
+    "image": "https://static.ser.moe/r6/weapons/AR33.jpg"
   },
   "G36C": {
     "name": "G36C",
@@ -49,7 +49,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/G36C.jpg"
+    "image": "https://static.ser.moe/r6/weapons/G36C.jpg"
   },
   "R4-C": {
     "name": "R4-C",
@@ -62,7 +62,7 @@
     "grips": "Vertical Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/R4-C.jpg"
+    "image": "https://static.ser.moe/r6/weapons/R4-C.jpg"
   },
   "556XI": {
     "name": "556xi",
@@ -75,7 +75,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/556xi.jpg"
+    "image": "https://static.ser.moe/r6/weapons/556xi.jpg"
   },
   "F2": {
     "name": "F2",
@@ -88,7 +88,7 @@
     "grips": "Vertical Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/F2.jpg"
+    "image": "https://static.ser.moe/r6/weapons/F2.jpg"
   },
   "AK-12": {
     "name": "AK-12",
@@ -101,7 +101,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/AK-12.jpg"
+    "image": "https://static.ser.moe/r6/weapons/AK-12.jpg"
   },
   "AUG_A2": {
     "name": "AUG A2",
@@ -114,7 +114,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/AUG%20A2.jpg"
+    "image": "https://static.ser.moe/r6/weapons/AUG%20A2.jpg"
   },
   "552_COMMANDO": {
     "name": "552 Commando",
@@ -127,7 +127,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/552%20Commando.jpg"
+    "image": "https://static.ser.moe/r6/weapons/552%20Commando.jpg"
   },
   "416-C_CARBINE": {
     "name": "416-C Carbine",
@@ -140,7 +140,7 @@
     "grips": "Vertical Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/416-C%20Carbine.jpg"
+    "image": "https://static.ser.moe/r6/weapons/416-C%20Carbine.jpg"
   },
   "C8-SFW": {
     "name": "C8-SFW",
@@ -153,7 +153,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/C8-SFW.jpg"
+    "image": "https://static.ser.moe/r6/weapons/C8-SFW.jpg"
   },
   "MK17_CQB": {
     "name": "Mk17 CQB",
@@ -166,7 +166,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/Mk17%20CQB.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Mk17%20CQB.jpg"
   },
   "PARA-308": {
     "name": "PARA-308",
@@ -179,7 +179,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/PARA-308.jpg"
+    "image": "https://static.ser.moe/r6/weapons/PARA-308.jpg"
   },
   "TYPE-89": {
     "name": "Type-89",
@@ -192,7 +192,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/Type-89.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Type-89.jpg"
   },
   "C7E": {
     "name": "C7E",
@@ -205,7 +205,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/C7E.jpg"
+    "image": "https://static.ser.moe/r6/weapons/C7E.jpg"
   },
   "M762": {
     "name": "M762",
@@ -218,7 +218,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/M762.jpg"
+    "image": "https://static.ser.moe/r6/weapons/M762.jpg"
   },
   "V308": {
     "name": "V308",
@@ -231,7 +231,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/V308.jpg"
+    "image": "https://static.ser.moe/r6/weapons/V308.jpg"
   },
   "SPEAR_.308": {
     "name": "Spear 308",
@@ -244,7 +244,7 @@
     "grips": "Vertical Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/Spear%20308.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Spear%20308.jpg"
   },
   "AR-15.50": {
     "name": "AR-15.50",
@@ -257,7 +257,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/AR-15.50.jpg"
+    "image": "https://static.ser.moe/r6/weapons/AR-15.50.jpg"
   },
   "M4": {
     "name": "M4",
@@ -270,7 +270,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/M4.jpg"
+    "image": "https://static.ser.moe/r6/weapons/M4.jpg"
   },
   "AK-74M": {
     "name": "AK-74M",
@@ -283,7 +283,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/AK-74M.jpg"
+    "image": "https://static.ser.moe/r6/weapons/AK-74M.jpg"
   },
   "ARX200": {
     "name": "ARX200",
@@ -296,7 +296,7 @@
     "grips": "Vertical Grip (Exclusive to Iana)",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/ARX200.jpg"
+    "image": "https://static.ser.moe/r6/weapons/ARX200.jpg"
   },
   "F90": {
     "name": "F90",
@@ -309,7 +309,7 @@
     "grips": "Vertical Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/F90.jpg"
+    "image": "https://static.ser.moe/r6/weapons/F90.jpg"
   },
   "COMMANDO_9": {
     "name": "Commando 9",
@@ -322,7 +322,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/Commando%209.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Commando%209.jpg"
   },
   "FMG-9": {
     "name": "FMG-9",
@@ -335,7 +335,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/FMG-9.jpg"
+    "image": "https://static.ser.moe/r6/weapons/FMG-9.jpg"
   },
   "MP5K": {
     "name": "MP5K",
@@ -348,7 +348,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/MP5K.jpg"
+    "image": "https://static.ser.moe/r6/weapons/MP5K.jpg"
   },
   "UMP45": {
     "name": "UMP45",
@@ -361,7 +361,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/UMP45.jpg"
+    "image": "https://static.ser.moe/r6/weapons/UMP45.jpg"
   },
   "MP5": {
     "name": "MP5",
@@ -374,7 +374,7 @@
     "grips": "Vertical Grip, Angled Grip (Exclusive to Oryx)",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/MP5.jpg"
+    "image": "https://static.ser.moe/r6/weapons/MP5.jpg"
   },
   "P90": {
     "name": "P90",
@@ -387,7 +387,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/P90.jpg"
+    "image": "https://static.ser.moe/r6/weapons/P90.jpg"
   },
   "9X19VSN": {
     "name": "9x19VSN",
@@ -400,7 +400,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/9x19VSN.jpg"
+    "image": "https://static.ser.moe/r6/weapons/9x19VSN.jpg"
   },
   "MP7": {
     "name": "MP7",
@@ -413,7 +413,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/MP7.jpg"
+    "image": "https://static.ser.moe/r6/weapons/MP7.jpg"
   },
   "9MM_C1": {
     "name": "9mm C1",
@@ -426,7 +426,7 @@
     "grips": "Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/9mm%20C1.jpg"
+    "image": "https://static.ser.moe/r6/weapons/9mm%20C1.jpg"
   },
   "MPX": {
     "name": "MPX",
@@ -439,7 +439,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/MPX.jpg"
+    "image": "https://static.ser.moe/r6/weapons/MPX.jpg"
   },
   "M12": {
     "name": "M12",
@@ -452,7 +452,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/M12.jpg"
+    "image": "https://static.ser.moe/r6/weapons/M12.jpg"
   },
   "MP5SD": {
     "name": "MP5SD",
@@ -465,7 +465,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/MP5SD.jpg"
+    "image": "https://static.ser.moe/r6/weapons/MP5SD.jpg"
   },
   "PDW9": {
     "name": "PDW9",
@@ -478,7 +478,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/PDW9.jpg"
+    "image": "https://static.ser.moe/r6/weapons/PDW9.jpg"
   },
   "VECTOR_.45_ACP": {
     "name": "Vector .45 ACP",
@@ -491,7 +491,7 @@
     "grips": "Vertical Grip",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/Vector%20.45%20ACP.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Vector%20.45%20ACP.jpg"
   },
   "T-5_SMG": {
     "name": "T-5 SMG",
@@ -504,7 +504,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/T-5%20SMG.jpg"
+    "image": "https://static.ser.moe/r6/weapons/T-5%20SMG.jpg"
   },
   "SCORPION_EVO_3_A1": {
     "name": "Scorpion EVO 3 A1",
@@ -517,7 +517,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/Scorpion%20EVO%203%20A1.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Scorpion%20EVO%203%20A1.jpg"
   },
   "K1A": {
     "name": "K1A",
@@ -530,7 +530,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/K1A.jpg"
+    "image": "https://static.ser.moe/r6/weapons/K1A.jpg"
   },
   "MX4_STORM": {
     "name": "Mx4 Storm",
@@ -543,7 +543,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/Mx4%20Storm.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Mx4%20Storm.jpg"
   },
   "AUG_A3": {
     "name": "AUG A3",
@@ -556,7 +556,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/AUG%20A3.jpg"
+    "image": "https://static.ser.moe/r6/weapons/AUG%20A3.jpg"
   },
   "P10_RONI": {
     "name": "P10 RONI",
@@ -569,7 +569,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Submachine Gun",
-    "image": "https://static.serames.me/r6/weapons/P10%20RONI.jpg"
+    "image": "https://static.ser.moe/r6/weapons/P10%20RONI.jpg"
   },
   "M590A1": {
     "name": "M590A1",
@@ -582,7 +582,7 @@
     "grips": "No grips available",
     "under_barrel": "laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/M590A1.jpg"
+    "image": "https://static.ser.moe/r6/weapons/M590A1.jpg"
   },
   "M1014": {
     "name": "M1014",
@@ -595,7 +595,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/M1014.jpg"
+    "image": "https://static.ser.moe/r6/weapons/M1014.jpg"
   },
   "SG-CQB": {
     "name": "SG-CQB",
@@ -608,7 +608,7 @@
     "grips": "Vertical Grip",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/SG-CQB.jpg"
+    "image": "https://static.ser.moe/r6/weapons/SG-CQB.jpg"
   },
   "SASG-12": {
     "name": "SASG-12",
@@ -621,7 +621,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/SASG-12.jpg"
+    "image": "https://static.ser.moe/r6/weapons/SASG-12.jpg"
   },
   "M870": {
     "name": "M870",
@@ -634,7 +634,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/M870.jpg"
+    "image": "https://static.ser.moe/r6/weapons/M870.jpg"
   },
   "SUPER_90": {
     "name": "Super 90",
@@ -647,7 +647,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/Super%2090.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Super%2090.jpg"
   },
   "SPAS-12": {
     "name": "SPAS-12",
@@ -660,7 +660,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/SPAS-12.jpg"
+    "image": "https://static.ser.moe/r6/weapons/SPAS-12.jpg"
   },
   "SPAS-15": {
     "name": "SPAS-15",
@@ -673,7 +673,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/SPAS-15.jpg"
+    "image": "https://static.ser.moe/r6/weapons/SPAS-15.jpg"
   },
   "SUPERNOVA": {
     "name": "SuperNova",
@@ -686,7 +686,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/SuperNova.jpg"
+    "image": "https://static.ser.moe/r6/weapons/SuperNova.jpg"
   },
   "ITA12L": {
     "name": "ITA12L",
@@ -699,7 +699,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/ITA12L.jpg"
+    "image": "https://static.ser.moe/r6/weapons/ITA12L.jpg"
   },
   "SIX12": {
     "name": "SIX12",
@@ -712,7 +712,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/SIX12.jpg"
+    "image": "https://static.ser.moe/r6/weapons/SIX12.jpg"
   },
   "SIX12_SD": {
     "name": "SIX12 SD",
@@ -725,7 +725,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/SIX12%20SD.jpg"
+    "image": "https://static.ser.moe/r6/weapons/SIX12%20SD.jpg"
   },
   "FO-12": {
     "name": "FO-12",
@@ -738,7 +738,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/FO-12.jpg"
+    "image": "https://static.ser.moe/r6/weapons/FO-12.jpg"
   },
   "BOSG.12.2": {
     "name": "BOSG.12.2",
@@ -751,7 +751,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/BOSG.12.2.jpg"
+    "image": "https://static.ser.moe/r6/weapons/BOSG.12.2.jpg"
   },
   "ACS12": {
     "name": "ACS12",
@@ -764,7 +764,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/ACS12.jpg"
+    "image": "https://static.ser.moe/r6/weapons/ACS12.jpg"
   },
   "TCSG12": {
     "name": "TCSG12",
@@ -777,7 +777,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/TCSG12.jpg"
+    "image": "https://static.ser.moe/r6/weapons/TCSG12.jpg"
   },
   "OTS-03": {
     "name": "OTs-03",
@@ -790,7 +790,7 @@
     "grips": "No grips available",
     "under_barrel": "No under barrels available",
     "weapon_type": "Marksman Rifle",
-    "image": "https://static.serames.me/r6/weapons/OTs-03.jpg"
+    "image": "https://static.ser.moe/r6/weapons/OTs-03.jpg"
   },
   "CAMRS": {
     "name": "CAMRS",
@@ -803,7 +803,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Marksman Rifle",
-    "image": "https://static.serames.me/r6/weapons/CAMRS.jpg"
+    "image": "https://static.ser.moe/r6/weapons/CAMRS.jpg"
   },
   "SR-25": {
     "name": "SR-25",
@@ -816,7 +816,7 @@
     "grips": "Vertical Grip",
     "under_barrel": "Laser",
     "weapon_type": "Marksman Rifle",
-    "image": "https://static.serames.me/r6/weapons/SR-25.jpg"
+    "image": "https://static.ser.moe/r6/weapons/SR-25.jpg"
   },
   "MK_14_EBR": {
     "name": "Mk 14 EBR",
@@ -829,7 +829,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Marksman Rifle",
-    "image": "https://static.serames.me/r6/weapons/Mk%2014%20EBR.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Mk%2014%20EBR.jpg"
   },
   "6P41": {
     "name": "6P41",
@@ -842,7 +842,7 @@
     "grips": "Vertical Grip",
     "under_barrel": "Laser",
     "weapon_type": "Light Machine Gun",
-    "image": "https://static.serames.me/r6/weapons/6P41.jpg"
+    "image": "https://static.ser.moe/r6/weapons/6P41.jpg"
   },
   "G8A1": {
     "name": "G8A1",
@@ -855,7 +855,7 @@
     "grips": "Angled Grip, Vertical Grip",
     "under_barrel": "No under barrels available",
     "weapon_type": "Light Machine Gun",
-    "image": "https://static.serames.me/r6/weapons/G8A1.jpg"
+    "image": "https://static.ser.moe/r6/weapons/G8A1.jpg"
   },
   "M249": {
     "name": "M249",
@@ -868,7 +868,7 @@
     "grips": "Vertical Grip",
     "under_barrel": "Laser",
     "weapon_type": "Light Machine Gun",
-    "image": "https://static.serames.me/r6/weapons/M249.jpg"
+    "image": "https://static.ser.moe/r6/weapons/M249.jpg"
   },
   "T-95_LSW": {
     "name": "T-95 LSW",
@@ -881,7 +881,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Light Machine Gun",
-    "image": "https://static.serames.me/r6/weapons/T-95%20LSW.jpg"
+    "image": "https://static.ser.moe/r6/weapons/T-95%20LSW.jpg"
   },
   "LMG-E": {
     "name": "LMG-E",
@@ -894,7 +894,7 @@
     "grips": "Vertical Grip",
     "under_barrel": "Laser",
     "weapon_type": "Light Machine Gun",
-    "image": "https://static.serames.me/r6/weapons/LMG-E.jpg"
+    "image": "https://static.ser.moe/r6/weapons/LMG-E.jpg"
   },
   "ALDA_5.56": {
     "name": "ALDA 5.56",
@@ -907,7 +907,7 @@
     "grips": "Vertical Grip",
     "under_barrel": "Laser",
     "weapon_type": "Light Machine Gun",
-    "image": "https://static.serames.me/r6/weapons/ALDA%205.56.jpg"
+    "image": "https://static.ser.moe/r6/weapons/ALDA%205.56.jpg"
   },
   "M249_SAW": {
     "name": "M249 SAW",
@@ -920,7 +920,7 @@
     "grips": "Vertical Grip",
     "under_barrel": "Laser",
     "weapon_type": "Light Machine Gun",
-    "image": "https://static.serames.me/r6/weapons/M249%20SAW.jpg"
+    "image": "https://static.ser.moe/r6/weapons/M249%20SAW.jpg"
   },
   "P226_MK_25": {
     "name": "P226 Mk 25",
@@ -933,7 +933,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/P226%20Mk%2025.jpg"
+    "image": "https://static.ser.moe/r6/weapons/P226%20Mk%2025.jpg"
   },
   "M45_MEUSOC": {
     "name": "M45 MEUSOC",
@@ -946,7 +946,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/M45%20MEUSOC.jpg"
+    "image": "https://static.ser.moe/r6/weapons/M45%20MEUSOC.jpg"
   },
   "5.7_USG": {
     "name": "5.7 USG",
@@ -959,7 +959,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/5.7%20USG.jpg"
+    "image": "https://static.ser.moe/r6/weapons/5.7%20USG.jpg"
   },
   "P9": {
     "name": "P9",
@@ -972,7 +972,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/P9.jpg"
+    "image": "https://static.ser.moe/r6/weapons/P9.jpg"
   },
   "LFP586": {
     "name": "LFP586",
@@ -985,7 +985,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/LFP586.jpg"
+    "image": "https://static.ser.moe/r6/weapons/LFP586.jpg"
   },
   "GSH-18": {
     "name": "GSh-18",
@@ -998,7 +998,7 @@
     "grips": "No grips available",
     "under_barrel": "No under barrels available",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/GSh-18.jpg"
+    "image": "https://static.ser.moe/r6/weapons/GSh-18.jpg"
   },
   "PMM": {
     "name": "PMM",
@@ -1011,7 +1011,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/PMM.jpg"
+    "image": "https://static.ser.moe/r6/weapons/PMM.jpg"
   },
   "P12": {
     "name": "P12",
@@ -1024,7 +1024,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/P12.jpg"
+    "image": "https://static.ser.moe/r6/weapons/P12.jpg"
   },
   "MK1_9MM": {
     "name": "Mk1 9mm",
@@ -1037,7 +1037,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/Mk1%209mm.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Mk1%209mm.jpg"
   },
   "D-50": {
     "name": "D-50",
@@ -1050,7 +1050,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/D-50.jpg"
+    "image": "https://static.ser.moe/r6/weapons/D-50.jpg"
   },
   "PRB92": {
     "name": "PRB92",
@@ -1063,7 +1063,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/PRB92.jpg"
+    "image": "https://static.ser.moe/r6/weapons/PRB92.jpg"
   },
   "P229": {
     "name": "P229",
@@ -1076,7 +1076,7 @@
     "grips": "no grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/P229.jpg"
+    "image": "https://static.ser.moe/r6/weapons/P229.jpg"
   },
   "USP40": {
     "name": "USP40",
@@ -1089,7 +1089,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/USP40.jpg"
+    "image": "https://static.ser.moe/r6/weapons/USP40.jpg"
   },
   "Q-929": {
     "name": "Q-929",
@@ -1102,7 +1102,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/Q-929.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Q-929.jpg"
   },
   "RG15": {
     "name": "RG15",
@@ -1115,7 +1115,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/RG15.jpg"
+    "image": "https://static.ser.moe/r6/weapons/RG15.jpg"
   },
   "BAILIFF_410": {
     "name": "Bailiff 410",
@@ -1128,7 +1128,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/Bailiff%20410.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Bailiff%20410.jpg"
   },
   "KERATOS_.357": {
     "name": "Keratos .357",
@@ -1141,7 +1141,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/Keratos%20.357.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Keratos%20.357.jpg"
   },
   "1911_TACOPS": {
     "name": "1911 TACOPS",
@@ -1154,7 +1154,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/1911%20TACOPS.jpg"
+    "image": "https://static.ser.moe/r6/weapons/1911%20TACOPS.jpg"
   },
   "P-10C": {
     "name": "P-10C",
@@ -1167,7 +1167,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/P-10C.jpg"
+    "image": "https://static.ser.moe/r6/weapons/P-10C.jpg"
   },
   ".44_MAG_SEMI-AUTO": {
     "name": ".44 Mag Semi-Auto",
@@ -1180,7 +1180,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/.44 Mag%20Semi-Auto.jpg"
+    "image": "https://static.ser.moe/r6/weapons/.44 Mag%20Semi-Auto.jpg"
   },
   "SPD_9MM": {
     "name": "SPD 9mm",
@@ -1193,7 +1193,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Handgun",
-    "image": "https://static.serames.me/r6/weapons/SPD%209mm.jpg"
+    "image": "https://static.ser.moe/r6/weapons/SPD%209mm.jpg"
   },
   "SMG-11": {
     "name": "SMG-11",
@@ -1206,7 +1206,7 @@
     "grips": "Vertical Grip",
     "under_barrel": "Laser",
     "weapon_type": "Machine Pistol",
-    "image": "https://static.serames.me/r6/weapons/SMG-11.jpg"
+    "image": "https://static.ser.moe/r6/weapons/SMG-11.jpg"
   },
   "BEARING_9": {
     "name": "Bearing 9",
@@ -1219,7 +1219,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Machine Pistol",
-    "image": "https://static.serames.me/r6/weapons/Bearing%209.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Bearing%209.jpg"
   },
   "C75_AUTO": {
     "name": "C75 Auto",
@@ -1232,7 +1232,7 @@
     "grips": "No grips available",
     "under_barrel": "No under barrel available",
     "weapon_type": "Machine Pistol",
-    "image": "https://static.serames.me/r6/weapons/C75%20Auto.jpg"
+    "image": "https://static.ser.moe/r6/weapons/C75%20Auto.jpg"
   },
   "SMG-12": {
     "name": "SMG-12",
@@ -1245,7 +1245,7 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Machine Pistol",
-    "image": "https://static.serames.me/r6/weapons/SMG-12.jpg"
+    "image": "https://static.ser.moe/r6/weapons/SMG-12.jpg"
   },
   "SPSMG9": {
     "name": "SPSMG9",
@@ -1258,7 +1258,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Machine Pistol",
-    "image": "https://static.serames.me/r6/weapons/SPSMG9.jpg"
+    "image": "https://static.ser.moe/r6/weapons/SPSMG9.jpg"
   },
   "ITA12S": {
     "name": "ITA12S",
@@ -1271,7 +1271,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/ITA12S.jpg"
+    "image": "https://static.ser.moe/r6/weapons/ITA12S.jpg"
   },
   "SUPER_SHORTY": {
     "name": "Super Shorty",
@@ -1284,7 +1284,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Shotgun",
-    "image": "https://static.serames.me/r6/weapons/Super%20Shorty.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Super%20Shorty.jpg"
   },
   "CSRX_300": {
     "name": "CSRX 300",
@@ -1297,7 +1297,7 @@
     "grips": "No grips available",
     "under_barrel": "No under barrels available",
     "weapon_type": "Marksman Rifle",
-    "image": "https://static.serames.me/r6/weapons/CSRX%20300.jpg"
+    "image": "https://static.ser.moe/r6/weapons/CSRX%20300.jpg"
   },
   "CCE_SHIELD": {
     "name": "CCE Shield",
@@ -1310,7 +1310,7 @@
     "grips": "No grips available",
     "under_barrel": "No under barrels available",
     "weapon_type": "Shield",
-    "image": "https://static.serames.me/r6/weapons/CCE%20Shield.jpg"
+    "image": "https://static.ser.moe/r6/weapons/CCE%20Shield.jpg"
   },
   "G52-TACTICAL_SHIELD": {
     "name": "G52-Tactical Shield",
@@ -1323,7 +1323,7 @@
     "grips": "No grips available",
     "under_barrel": "No under barrels available",
     "weapon_type": "Shield",
-    "image": "https://static.serames.me/r6/weapons/G52-Tactical%20Shield.jpg"
+    "image": "https://static.ser.moe/r6/weapons/G52-Tactical%20Shield.jpg"
   },
   "LE_ROC": {
     "name": "Le Roc",
@@ -1336,7 +1336,7 @@
     "grips": "No grips available",
     "under_barrel": "No under barrels available",
     "weapon_type": "Shield",
-    "image": "https://static.serames.me/r6/weapons/Le%20Roc.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Le%20Roc.jpg"
   },
   "BALLISTIC_SHIELD": {
     "name": "Ballistic Shield",
@@ -1349,7 +1349,7 @@
     "grips": "No grips available",
     "under_barrel": "No under barrels available",
     "weapon_type": "Shield",
-    "image": "https://static.serames.me/r6/weapons/Ballistic%20Shield.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Ballistic%20Shield.jpg"
   },
   "LUISON": {
     "name": "Luison",
@@ -1362,7 +1362,7 @@
     "grips": "No grips available",
     "under_barrel": "Laser",
     "weapon_type": "Pistol",
-    "image": "https://static.serames.me/r6/weapons/Luison.jpg"
+    "image": "https://static.ser.moe/r6/weapons/Luison.jpg"
   },
   "SC3000K": {
     "name": "SC3000K",
@@ -1375,6 +1375,6 @@
     "grips": "Vertical Grip, Angled Grip",
     "under_barrel": "Laser",
     "weapon_type": "Assault Rifle",
-    "image": "https://static.serames.me/r6/weapons/SC3000k.jpg"
-  },
+    "image": "https://static.ser.moe/r6/weapons/SC3000k.jpg"
+  }
 }

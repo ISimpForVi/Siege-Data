@@ -4,7 +4,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "S.E.L.M.A Aqua Breacher",
     "gadget_2": ["Breach Charges", "Smoke Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/ace.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/ace.png",
     "description": "Thrown gagdet that deploys hydraulic pressure pellets to breach breakable and reinforced surfaces",
     "weapons": {
       "primary": [{
@@ -18,7 +18,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/AK-12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/AK-12.jpg"
       }, {
         "name": "M1014",
         "damage": "34",
@@ -30,7 +30,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/M1014.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M1014.jpg"
       }],
       "secondary": [{
         "name": "P9",
@@ -43,7 +43,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P9.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P9.jpg"
       }]
     }
   },
@@ -52,7 +52,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Garra Hook",
     "gadget_2": ["Hard Breach Charge", "Stun Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/amaru.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/amaru.png",
     "description": "A high-tensile grappling gun used for fast access to rappel points and open hatches, or to enter via exterior windows at limited distances",
     "weapons": {
       "primary": [{
@@ -66,7 +66,7 @@
         "grips": ["Angled Grip", "Vertical Grip"],
         "under_barrel": ["No under barrels available"],
         "weapon_type": "Light Machine Gun",
-        "image": "https://static.serames.me/r6/weapons/G8A1.jpg"
+        "image": "https://static.ser.moe/r6/weapons/G8A1.jpg"
       }, {
         "name": "SuperNova",
         "damage": "48",
@@ -78,7 +78,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SuperNova.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SuperNova.jpg"
       }],
       "secondary": [{
         "name": "ITA12S",
@@ -91,7 +91,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/ITA12S.jpg"
+        "image": "https://static.ser.moe/r6/weapons/ITA12S.jpg"
       }, {
         "name": "SMG-11",
         "damage": "32",
@@ -103,7 +103,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Machine Pistol",
-        "image": "https://static.serames.me/r6/weapons/SMG-11.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SMG-11.jpg"
       }]
     }
   },
@@ -112,7 +112,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Breaching Rounds",
     "gadget_2": ["Stun Grenades", "Breach Charges"],
-    "icon": "https://static.serames.me/r6/operators/icon/ash.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/ash.png",
     "description": "Fires an explosive Breach Round that burrows into a surface and automatically detonates",
     "weapons": {
       "primary": [{
@@ -126,7 +126,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/G36C.jpg"
+        "image": "https://static.ser.moe/r6/weapons/G36C.jpg"
       }, {
         "name": "R4-C",
         "damage": "39",
@@ -138,7 +138,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/R4-C.jpg"
+        "image": "https://static.ser.moe/r6/weapons/R4-C.jpg"
       }],
       "secondary": [{
         "name": "M45 MEUSOC",
@@ -151,7 +151,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/M45 MEUSOC.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M45 MEUSOC.jpg"
       }, {
         "name": "5.7 USG",
         "damage": "42",
@@ -163,7 +163,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/5.7 USG.jpg"
+        "image": "https://static.ser.moe/r6/weapons/5.7 USG.jpg"
       }]
     }
   },
@@ -172,7 +172,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Rifle Shield",
     "gadget_2": ["Breach Charges", "Stun Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/blackbeard.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/blackbeard.png",
     "description": "Deploys a ballistic shield on his rifle that can be swapped if the first one gets damaged",
     "weapons": {
       "primary": [{
@@ -186,7 +186,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/Mk17 CQB.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Mk17 CQB.jpg"
       }, {
         "name": "SR-25",
         "damage": "61",
@@ -198,7 +198,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Marksman Rifle",
-        "image": "https://static.serames.me/r6/weapons/SR-25.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SR-25.jpg"
       }],
       "secondary": [{
         "name": "D-50",
@@ -211,7 +211,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/D-50.jpg"
+        "image": "https://static.ser.moe/r6/weapons/D-50.jpg"
       }]
     }
   },
@@ -220,7 +220,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Flash Shield",
     "gadget_2": ["Smoke Grenades", "Breach Charges"],
-    "icon": "https://static.serames.me/r6/operators/icon/blitz.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/blitz.png",
     "description": "Triggers the flash attatched to his ballistic shield to temporarily blind enemies",
     "weapons": {
       "primary": [{
@@ -234,7 +234,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["No under barrels available"],
         "weapon_type": "Shield",
-        "image": "https://static.serames.me/r6/weapons/G52-Tactical Shield.jpg"
+        "image": "https://static.ser.moe/r6/weapons/G52-Tactical Shield.jpg"
       }],
       "secondary": [{
         "name": "P12",
@@ -247,7 +247,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P12.jpg"
       }]
     }
   },
@@ -256,7 +256,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Skeleton Key",
     "gadget_2": ["Stun Grenades", "Frag Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/buck.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/buck.png",
     "description": "Toggles under-barrel shotgun attachment on his main weapon",
     "weapons": {
       "primary": [{
@@ -270,7 +270,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/C8-SFW.jpg"
+        "image": "https://static.ser.moe/r6/weapons/C8-SFW.jpg"
       }, {
         "name": "CAMRS",
         "damage": "69",
@@ -282,7 +282,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Marksman Rifle",
-        "image": "https://static.serames.me/r6/weapons/CAMRS.jpg"
+        "image": "https://static.ser.moe/r6/weapons/CAMRS.jpg"
       }],
       "secondary": [{
         "name": "Mk1 9mm",
@@ -295,7 +295,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/Mk1 9mm.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Mk1 9mm.jpg"
       }]
     }
   },
@@ -304,7 +304,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Tactical Crossbow",
     "gadget_2": ["Claymore", "Hard Breach Charge"],
-    "icon": "https://static.serames.me/r6/operators/icon/capitao.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/capitao.png",
     "description": "Tactical crossbow that firres asphyxiating bolts and micro smoke grenades",
     "weapons": {
       "primary": [{
@@ -318,7 +318,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Light Machine Gun",
-        "image": "https://static.serames.me/r6/weapons/M249.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M249.jpg"
       }, {
         "name": "PARA-308",
         "damage": "48",
@@ -330,7 +330,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/PARA-308.jpg"
+        "image": "https://static.ser.moe/r6/weapons/PARA-308.jpg"
       }],
       "secondary": [{
         "name": "PRB92",
@@ -343,7 +343,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/PRB92.jpg"
+        "image": "https://static.ser.moe/r6/weapons/PRB92.jpg"
       }]
     }
   },
@@ -352,7 +352,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Logic Bomb",
     "gadget_2": ["Smoke Grenades", "Stun Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/dokkaebi.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/dokkaebi.png",
     "description": "Uploads a virus that forces enemy phones to emit a low buzz that can be overheard, thereby potentially compromising an enemy's position",
     "weapons": {
       "primary": [{
@@ -366,7 +366,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Marksman Rifle",
-        "image": "https://static.serames.me/r6/weapons/Mk 14 EBR.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Mk 14 EBR.jpg"
       }, {
         "name": "BOSG.12.2",
         "damage": "125",
@@ -378,7 +378,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/BOSG.12.2.jpg"
+        "image": "https://static.ser.moe/r6/weapons/BOSG.12.2.jpg"
       }],
       "secondary": [{
         "name": "C75 Auto",
@@ -391,7 +391,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["No under barrel available"],
         "weapon_type": "Machine Pistol",
-        "image": "https://static.serames.me/r6/weapons/C75 Auto.jpg"
+        "image": "https://static.ser.moe/r6/weapons/C75 Auto.jpg"
       }, {
         "name": "SMG-12",
         "damage": "28",
@@ -403,7 +403,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Machine Pistol",
-        "image": "https://static.serames.me/r6/weapons/SMG-12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SMG-12.jpg"
       }]
     }
   },
@@ -412,7 +412,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Adrenal Surge",
     "gadget_2": ["Hard Breach Charge", "Frag Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/finka.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/finka.png",
     "description": "The nanobots give the team a brief gain in HP and revive allies in a DBNO state",
     "weapons": {
       "primary": [{
@@ -426,7 +426,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/Spear 308.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Spear 308.jpg"
       }, {
         "name": "6P41",
         "damage": "46",
@@ -438,7 +438,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Light Machine Gun",
-        "image": "https://static.serames.me/r6/weapons/6P41.jpg"
+        "image": "https://static.ser.moe/r6/weapons/6P41.jpg"
       }, {
         "name": "SASG-12",
         "damage": "50",
@@ -450,7 +450,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SASG-12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SASG-12.jpg"
       }],
       "secondary": [{
         "name": "PMM",
@@ -463,7 +463,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/PMM.jpg"
+        "image": "https://static.ser.moe/r6/weapons/PMM.jpg"
       }, {
         "name": "GSh-18",
         "damage": "44",
@@ -475,7 +475,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["No under barrels available"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/GSh-18.jpg"
+        "image": "https://static.ser.moe/r6/weapons/GSh-18.jpg"
       }]
     }
   },
@@ -484,7 +484,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Cluster Charge",
     "gadget_2": ["Breach Charges", "Hard Breach Charge"],
-    "icon": "https://static.serames.me/r6/operators/icon/fuze.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/fuze.png",
     "description": "Uses Cluster Charges that pierce and stick to walls, releasing sub-grenades on the opposing side",
     "weapons": {
       "primary": [{
@@ -498,7 +498,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["No under barrels available"],
         "weapon_type": "Shield",
-        "image": "https://static.serames.me/r6/weapons/Ballistic Shield.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Ballistic Shield.jpg"
       }, {
         "name": "6P41",
         "damage": "46",
@@ -510,7 +510,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Light Machine Gun",
-        "image": "https://static.serames.me/r6/weapons/6P41.jpg"
+        "image": "https://static.ser.moe/r6/weapons/6P41.jpg"
       }, {
         "name": "AK-12",
         "damage": "45",
@@ -522,7 +522,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/AK-12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/AK-12.jpg"
       }],
       "secondary": [{
         "name": "GSh-18",
@@ -535,7 +535,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["No under barrels available"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/GSh-18.jpg"
+        "image": "https://static.ser.moe/r6/weapons/GSh-18.jpg"
       }, {
         "name": "PMM",
         "damage": "61",
@@ -547,7 +547,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/PMM.jpg"
+        "image": "https://static.ser.moe/r6/weapons/PMM.jpg"
       }]
     }
   },
@@ -556,7 +556,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Flip Sight",
     "gadget_2": ["Smoke Genades", "Frag Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/glaz.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/glaz.png",
     "description": "Toggles a magnofication scope with sophisticated image sensors outlining long range marks, even through smoke",
     "weapons": {
       "primary": [{
@@ -570,7 +570,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["No under barrels available"],
         "weapon_type": "Marksman Rifle",
-        "image": "https://static.serames.me/r6/weapons/OTs-03.jpg"
+        "image": "https://static.ser.moe/r6/weapons/OTs-03.jpg"
       }],
       "secondary": [{
         "name": "GSh-18",
@@ -583,7 +583,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["No under barrels available"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/GSh-18.jpg"
+        "image": "https://static.ser.moe/r6/weapons/GSh-18.jpg"
       }, {
         "name": "PMM",
         "damage": "61",
@@ -595,7 +595,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/PMM.jpg"
+        "image": "https://static.ser.moe/r6/weapons/PMM.jpg"
       }]
     }
   },
@@ -604,7 +604,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Trax Stingers",
     "gadget_2": ["Smoke Grenade", "Breach Charges"],
-    "icon": "https://static.serames.me/r6/operators/icon/gridlock.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/gridlock.png",
     "description": "Thrown gadget that deploys barbed mats capable of slowing down and hurting enemies who traverse them",
     "weapons": {
       "primary": [{
@@ -618,7 +618,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/F90.jpg"
+        "image": "https://static.ser.moe/r6/weapons/F90.jpg"
       }, {
         "name": "M249 SAW",
         "damage": "48",
@@ -630,7 +630,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Light Machine Gun",
-        "image": "https://static.serames.me/r6/weapons/M249 SAW.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M249 SAW.jpg"
       }],
       "secondary": [{
         "name": "SPD 9mm",
@@ -643,7 +643,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/SPD 9mm.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SPD 9mm.jpg"
       }]
     }
   },
@@ -652,7 +652,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "X-KAIROS Pellets",
     "gadget_2": ["Stun Grenades", "Breach Charges"],
-    "icon": "https://static.serames.me/r6/operators/icon/hibana.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/hibana.png",
     "description": "A 40mm grenade launcher firing explosive pellets that can be detonated from a distance",
     "weapons": {
       "primary": [{
@@ -666,7 +666,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/Type-89.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Type-89.jpg"
       }, {
         "name": "SuperNova",
         "damage": "48",
@@ -678,7 +678,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SuperNova.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SuperNova.jpg"
       }],
       "secondary": [{
         "name": "P229",
@@ -691,7 +691,7 @@
         "grips": ["no grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P229.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P229.jpg"
       }, {
         "name": "Bearing 9",
         "damage": "33",
@@ -703,7 +703,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Machine Pistol",
-        "image": "https://static.serames.me/r6/weapons/Bearing 9.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Bearing 9.jpg"
       }]
     }
   },
@@ -713,7 +713,7 @@
     "gadget_1": "Gemini Replicator",
     "gadget_2": ["Smoke Grenades", "Frag Grenades"],
     "description": "Deploys a remote-controlled holographic copy of Iana to fool opponents and gather intel",
-    "icon": "https://static.serames.me/r6/operators/icon/iana.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/iana.png",
     "weapons": {
       "primary": [{
         "name": "G36C",
@@ -726,7 +726,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/G36C.jpg"
+        "image": "https://static.ser.moe/r6/weapons/G36C.jpg"
       }, {
         "name": "ARX200",
         "damage": "47",
@@ -738,7 +738,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/ARX200.jpg"
+        "image": "https://static.ser.moe/r6/weapons/ARX200.jpg"
       }],
       "secondary": [{
         "name": "Mk1 9mm",
@@ -751,7 +751,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/Mk1 9mm.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Mk1 9mm.jpg"
       }]
     }
   },
@@ -760,7 +760,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Eyenox Model III",
     "gadget_2": ["Breach Charges", "Smoke Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/jackal.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/jackal.png",
     "description": "Tracking optics that locates targets by revealing and identifiying recent footsteps",
     "weapons": {
       "primary": [{
@@ -774,7 +774,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/C7E.jpg"
+        "image": "https://static.ser.moe/r6/weapons/C7E.jpg"
       }, {
         "name": "PDW9",
         "damage": "34",
@@ -786,7 +786,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/PDW9.jpg"
+        "image": "https://static.ser.moe/r6/weapons/PDW9.jpg"
       }, {
         "name": "ITA12L",
         "damage": "50",
@@ -798,7 +798,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/ITA12L.jpg"
+        "image": "https://static.ser.moe/r6/weapons/ITA12L.jpg"
       }],
       "secondary": [{
         "name": "ITA12S",
@@ -811,7 +811,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/ITA12S.jpg"
+        "image": "https://static.ser.moe/r6/weapons/ITA12S.jpg"
       }, {
         "name": "USP40",
         "damage": "48",
@@ -823,7 +823,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/USP40.jpg"
+        "image": "https://static.ser.moe/r6/weapons/USP40.jpg"
       }]
     }
   },
@@ -832,7 +832,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "LV Explosive Lance",
     "gadget_2": ["Breach Charges", "Claymore"],
-    "icon": "https://static.serames.me/r6/operators/icon/kali.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/kali.png",
     "description": "An under-barrel mechanical projectile that explodes within a set radius to destroy gadgets on both sides of breakable and reinforced surfaces",
     "weapons": {
       "primary": [{
@@ -846,7 +846,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["No under barrels available"],
         "weapon_type": "Marksman Rifle",
-        "image": "https://static.serames.me/r6/weapons/CSRX 300.jpg"
+        "image": "https://static.ser.moe/r6/weapons/CSRX 300.jpg"
       }],
       "secondary": [{
         "name": "C75 Auto",
@@ -859,7 +859,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["No under barrel available"],
         "weapon_type": "Machine Pistol",
-        "image": "https://static.serames.me/r6/weapons/C75 Auto.jpg"
+        "image": "https://static.ser.moe/r6/weapons/C75 Auto.jpg"
       }, {
         "name": "SPSMG9",
         "damage": "30",
@@ -871,7 +871,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Machine Pistol",
-        "image": "https://static.serames.me/r6/weapons/SPSMG9.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SPSMG9.jpg"
       }]
     }
   },
@@ -880,7 +880,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "EE-ONE-D",
     "gadget_2": ["Hard Breach Charge", "Stun Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/lion.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/lion.png",
     "description": "The EE-ONE-D detects enemy movement, tagging their position during the scan",
     "weapons": {
       "primary": [{
@@ -894,7 +894,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/V308.jpg"
+        "image": "https://static.ser.moe/r6/weapons/V308.jpg"
       }, {
         "name": "417",
         "damage": "69",
@@ -906,7 +906,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Marksman Rifle",
-        "image": "https://static.serames.me/r6/weapons/417.jpg"
+        "image": "https://static.ser.moe/r6/weapons/417.jpg"
       }, {
         "name": "SG-CQB",
         "damage": "53",
@@ -918,7 +918,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SG-CQB.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SG-CQB.jpg"
       }],
       "secondary": [{
         "name": "P9",
@@ -931,7 +931,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P9.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P9.jpg"
       }, {
         "name": "LFP586",
         "damage": "78",
@@ -943,7 +943,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/LFP586.jpg"
+        "image": "https://static.ser.moe/r6/weapons/LFP586.jpg"
       }]
     }
   },
@@ -952,7 +952,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Breaching Torch",
     "gadget_2": ["Claymore", "Frag Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/maverick.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/maverick.png",
     "description": "Blowtorch capable of burning holes through reinforced walls at an almost inaudable level",
     "weapons": {
       "primary": [{
@@ -966,7 +966,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/AR-15.50.jpg"
+        "image": "https://static.ser.moe/r6/weapons/AR-15.50.jpg"
       }, {
         "name": "M4",
         "damage": "44",
@@ -978,7 +978,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/M4.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M4.jpg"
       }],
       "secondary": [{
         "name": "1911 TACOPS",
@@ -991,7 +991,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/1911 TACOPS.jpg"
+        "image": "https://static.ser.moe/r6/weapons/1911 TACOPS.jpg"
       }]
     }
   },
@@ -1000,7 +1000,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Extendable Shield",
     "gadget_2": ["Hard Breach Charge", "Smoke Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/montange.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/montange.png",
     "description": "can extend his Extendable Shield to offer full protection while standing",
     "weapons": {
       "primary": [{
@@ -1014,7 +1014,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["No under barrels available"],
         "weapon_type": "Shield",
-        "image": "https://static.serames.me/r6/weapons/Le Roc.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Le Roc.jpg"
       }],
       "secondary": [{
         "name": "P9",
@@ -1027,7 +1027,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P9.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P9.jpg"
       }, {
         "name": "LFP586",
         "damage": "78",
@@ -1039,7 +1039,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/LFP586.jpg"
+        "image": "https://static.ser.moe/r6/weapons/LFP586.jpg"
       }]
     }
   },
@@ -1048,7 +1048,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "HEL Presence Reduction",
     "gadget_2": ["Frag Grenades", "Hard Breach Charge"],
-    "icon": "https://static.serames.me/r6/operators/icon/nokk.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/nokk.png",
     "description": "Counter-intel that wipes Nokk's image from observation tools and reduces her noise, with exceptions",
     "weapons": {
       "primary": [{
@@ -1062,7 +1062,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/FMG-9.jpg"
+        "image": "https://static.ser.moe/r6/weapons/FMG-9.jpg"
       }, {
         "name": "SIX12 SD",
         "damage": "35",
@@ -1074,7 +1074,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SIX12 SD.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SIX12 SD.jpg"
       }],
       "secondary": [{
         "name": "5.7 USG",
@@ -1087,7 +1087,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/5.7 USG.jpg"
+        "image": "https://static.ser.moe/r6/weapons/5.7 USG.jpg"
       }, {
         "name": "D-50",
         "damage": "71",
@@ -1099,7 +1099,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/D-50.jpg"
+        "image": "https://static.ser.moe/r6/weapons/D-50.jpg"
       }]
     }
   },
@@ -1108,7 +1108,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Airjab Launcher",
     "gadget_2": ["Claymore", "Breach Charges"],
-    "icon": "https://static.serames.me/r6/operators/icon/nomad.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/nomad.png",
     "description": "Rifle attachment shooting an adhesive repulsion device that detonates by proximity",
     "weapons": {
       "primary": [{
@@ -1122,7 +1122,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/AK-74M.jpg"
+        "image": "https://static.ser.moe/r6/weapons/AK-74M.jpg"
       }, {
         "name": "ARX200",
         "damage": "47",
@@ -1134,7 +1134,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/ARX200.jpg"
+        "image": "https://static.ser.moe/r6/weapons/ARX200.jpg"
       }],
       "secondary": [{
         "name": ".44 Mag Semi-Auto",
@@ -1147,7 +1147,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/.44 Mag Semi-Auto.jpg"
+        "image": "https://static.ser.moe/r6/weapons/.44 Mag Semi-Auto.jpg"
       }, {
         "name": "PRB92",
         "damage": "42",
@@ -1159,7 +1159,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/PRB92.jpg"
+        "image": "https://static.ser.moe/r6/weapons/PRB92.jpg"
       }]
     }
   },
@@ -1168,7 +1168,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Tactical Breaching Hammer",
     "gadget_2": ["Frag Grenades", "Stun Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/sledge.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/sledge.png",
     "description": "Uses a Breaching Hammer to breach through destructable surfaces",
     "weapons": {
       "primary": [{
@@ -1182,7 +1182,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/M590A1.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M590A1.jpg"
       }, {
         "name": "L85A2",
         "damage": "45",
@@ -1194,7 +1194,7 @@
         "grips": ["Vertical"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/L85A2.jpg"
+        "image": "https://static.ser.moe/r6/weapons/L85A2.jpg"
       }],
       "secondary": [{
         "name": "P226 Mk 25",
@@ -1207,7 +1207,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P226 Mk 25.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P226 Mk 25.jpg"
       }, {
         "name": "SMG-11",
         "damage": "32",
@@ -1219,7 +1219,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Machine Pistol",
-        "image": "https://static.serames.me/r6/weapons/SMG-11.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SMG-11.jpg"
       }]
     }
   },
@@ -1228,7 +1228,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "EMP Grenades",
     "gadget_2": ["Claymore", "Breach Charges"],
-    "icon": "https://static.serames.me/r6/operators/icon/thatcher.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/thatcher.png",
     "description": "Uses EMP Grenades to disable any electronics in range",
     "weapons": {
       "primary": [{
@@ -1242,7 +1242,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/AR33.jpg"
+        "image": "https://static.ser.moe/r6/weapons/AR33.jpg"
       }, {
         "name": "L85A2",
         "damage": "45",
@@ -1254,7 +1254,7 @@
         "grips": ["Vertical"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/L85A2.jpg"
+        "image": "https://static.ser.moe/r6/weapons/L85A2.jpg"
       }, {
         "name": "M590A1",
         "damage": "45",
@@ -1266,7 +1266,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/M590A1.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M590A1.jpg"
       }],
       "secondary": [{
         "name": "P226 Mk 25",
@@ -1279,7 +1279,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P226 Mk 25.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P226 Mk 25.jpg"
       }]
     }
   },
@@ -1288,7 +1288,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Exothermic Charges",
     "gadget_2": ["Claymore", "Stun Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/thermite.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/thermite.png",
     "description": "Sets an exothermic charge that destroys reinforced walls",
     "weapons": {
       "primary": [{
@@ -1302,7 +1302,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/556xi.jpg"
+        "image": "https://static.ser.moe/r6/weapons/556xi.jpg"
       }, {
         "name": "M1014",
         "damage": "34",
@@ -1314,7 +1314,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/M1014.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M1014.jpg"
       }],
       "secondary": [{
         "name": "M45 MEUSOC",
@@ -1327,7 +1327,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/M45 MEUSOC.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M45 MEUSOC.jpg"
       }, {
         "name": "5.7 USG",
         "damage": "42",
@@ -1339,7 +1339,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/5.7 USG.jpg"
+        "image": "https://static.ser.moe/r6/weapons/5.7 USG.jpg"
       }]
     }
   },
@@ -1348,7 +1348,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Shock Drones",
     "gadget_2": ["Breach Charges", "Claymore"],
-    "icon": "https://static.serames.me/r6/operators/icon/twitch.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/twitch.png",
     "description": "Uses two Shock Drones to disable traps or injure enemies. Deploys the first Shock Drone during the preparation phase",
     "weapons": {
       "primary": [{
@@ -1362,7 +1362,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/F2.jpg"
+        "image": "https://static.ser.moe/r6/weapons/F2.jpg"
       }, {
         "name": "SG-CQB",
         "damage": "53",
@@ -1374,7 +1374,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SG-CQB.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SG-CQB.jpg"
       }, {
         "name": "417",
         "damage": "69",
@@ -1386,7 +1386,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Marksman Rifle",
-        "image": "https://static.serames.me/r6/weapons/417.jpg"
+        "image": "https://static.ser.moe/r6/weapons/417.jpg"
       }],
       "secondary": [{
         "name": "P9",
@@ -1399,7 +1399,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P9.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P9.jpg"
       }, {
         "name": "LFP586",
         "damage": "78",
@@ -1411,7 +1411,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/LFP586.jpg"
+        "image": "https://static.ser.moe/r6/weapons/LFP586.jpg"
       }]
     }
   },
@@ -1420,7 +1420,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Candelas",
     "gadget_2": ["Hard Breach Charge", "Claymore"],
-    "icon": "https://static.serames.me/r6/operators/icon/ying.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/ying.png",
     "description": "Cluster of flash charges that can either be anchored to surfaces or rolled out as a grenade",
     "weapons": {
       "primary": [{
@@ -1434,7 +1434,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Light Machine Gun",
-        "image": "https://static.serames.me/r6/weapons/T-95 LSW.jpg"
+        "image": "https://static.ser.moe/r6/weapons/T-95 LSW.jpg"
       }, {
         "name": "SIX12",
         "damage": "35",
@@ -1446,7 +1446,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SIX12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SIX12.jpg"
       }],
       "secondary": [{
         "name": "Q-929",
@@ -1459,7 +1459,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/Q-929.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Q-929.jpg"
       }]
     }
   },
@@ -1468,7 +1468,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "ARGUS",
     "gadget_2": ["Grenades", "Claymore"],
-    "icon": "https://static.serames.me/r6/operators/icon/zero.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/zero.png",
     "description": "Launcher that deploys cameras which can pierce through breakable and reinforced surfaces to surveil either side and shoot a laser.",
     "weapons": {
       "primary": [{
@@ -1482,7 +1482,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/SC3000k.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SC3000k.jpg"
       }, {
         "name": "MP7",
         "damage": "32",
@@ -1494,7 +1494,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/MP7.jpg"
+        "image": "https://static.ser.moe/r6/weapons/MP7.jpg"
       }],
       "secondary": [{
         "name": "5.7 USG",
@@ -1507,7 +1507,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/5.7 USG.jpg"
+        "image": "https://static.ser.moe/r6/weapons/5.7 USG.jpg"
       }]
     }
   },
@@ -1516,7 +1516,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "KS79 LIFELINE",
     "gadget_2": ["Breach Charges", "Claymore"],
-    "icon": "https://static.serames.me/r6/operators/icon/zofia.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/zofia.png",
     "description": "Double barrel launcher that can fire both concussion and impact grenades",
     "weapons": {
       "primary": [{
@@ -1530,7 +1530,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Light Machine Gun",
-        "image": "https://static.serames.me/r6/weapons/LMG-E.jpg"
+        "image": "https://static.ser.moe/r6/weapons/LMG-E.jpg"
       }, {
         "name": "M762",
         "damage": "45",
@@ -1542,7 +1542,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/M762.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M762.jpg"
       }],
       "secondary": [{
         "name": "RG15",
@@ -1555,7 +1555,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/RG15.jpg"
+        "image": "https://static.ser.moe/r6/weapons/RG15.jpg"
       }]
     }
   },
@@ -1564,7 +1564,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Prisma",
     "gadget_2": ["Impact Grenades", "Deployable Shield"],
-    "icon": "https://static.serames.me/r6/operators/icon/alibi.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/alibi.png",
     "description": "Deploys holograms of Alibi and tags hostiles when fired upon",
     "weapons": {
       "primary": [{
@@ -1578,7 +1578,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/Mx4 Storm.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Mx4 Storm.jpg"
       }, {
         "name": "ACS12",
         "damage": "59",
@@ -1590,7 +1590,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/ACS12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/ACS12.jpg"
       }],
       "secondary": [{
         "name": "Keratos .357",
@@ -1603,7 +1603,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/Keratos .357.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Keratos .357.jpg"
       }, {
         "name": "Bailiff 410",
         "damage": "30",
@@ -1615,7 +1615,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/Bailiff 410.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Bailiff 410.jpg"
       }]
     }
   },
@@ -1624,7 +1624,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "CED-1",
     "gadget_2": ["Barbed Wire", "Nitro Cell"],
-    "icon": "https://static.serames.me/r6/operators/icon/bandit.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/bandit.png",
     "description": "Sets up a Crude Electrical Device that eelectrifies other gadgets and damages anything that comes within contact",
     "weapons": {
       "primary": [{
@@ -1638,7 +1638,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/MP7.jpg"
+        "image": "https://static.ser.moe/r6/weapons/MP7.jpg"
       }, {
         "name": "M870",
         "damage": "60",
@@ -1650,7 +1650,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/M870.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M870.jpg"
       }],
       "secondary": [{
         "name": "P12",
@@ -1663,7 +1663,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P12.jpg"
       }]
     }
   },
@@ -1672,7 +1672,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Armor Panel",
     "gadget_2": ["Bulletproof Camera", "Proximity Alarms"],
-    "icon": "https://static.serames.me/r6/operators/icon/castle.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/castle.png",
     "description": "Sets bulletproof barricades that are more resistant than standard ones",
     "weapons": {
       "primary": [{
@@ -1686,7 +1686,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/UMP45.jpg"
+        "image": "https://static.ser.moe/r6/weapons/UMP45.jpg"
       }, {
         "name": "M1014",
         "damage": "34",
@@ -1698,7 +1698,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/M1014.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M1014.jpg"
       }],
       "secondary": [{
         "name": "5.7 USG",
@@ -1711,7 +1711,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/5.7 USG.jpg"
+        "image": "https://static.ser.moe/r6/weapons/5.7 USG.jpg"
       }, {
         "name": "Super Shortly",
         "damage": "35",
@@ -1723,7 +1723,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/Super Shortly.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Super Shortly.jpg"
       }]
     }
   },
@@ -1732,7 +1732,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Silent Step",
     "gadget_2": ["Impact grenades", "Proximity Alarms"],
-    "icon": "https://static.serames.me/r6/operators/icon/caviera.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/caviera.png",
     "description": "Caviera's predatory stealth, the 'Silent Step,' allows her to lurk on her prey, almost inaudible, until it's too late",
     "weapons": {
       "primary": [{
@@ -1746,7 +1746,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/M12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M12.jpg"
       }, {
         "name": "SPAS-15",
         "damage": "30",
@@ -1758,7 +1758,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SPAS-15.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SPAS-15.jpg"
       }],
       "secondary": [{
         "name": "Luison",
@@ -1771,7 +1771,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Pistol",
-        "image": "https://static.serames.me/r6/weapons/Luison.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Luison.jpg"
       }]
     }
   },
@@ -1780,7 +1780,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "CCE Shield",
     "gadget_2": ["Impact Grenades", "Barbed Wire"],
-    "icon": "https://static.serames.me/r6/operators/icon/clash.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/clash.png",
     "description": "Extendable electro shield capable of slowing down enemies, causing damage over time",
     "weapons": {
       "primary": [{
@@ -1794,7 +1794,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["No under barrels available"],
         "weapon_type": "Shield",
-        "image": "https://static.serames.me/r6/weapons/CCE Shield.jpg"
+        "image": "https://static.ser.moe/r6/weapons/CCE Shield.jpg"
       }],
       "secondary": [{
         "name": "P-10C",
@@ -1807,7 +1807,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P-10C.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P-10C.jpg"
       }, {
         "name": "SPSMG9",
         "damage": "30",
@@ -1819,7 +1819,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Machine Pistol",
-        "image": "https://static.serames.me/r6/weapons/SPSMG9.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SPSMG9.jpg"
       }]
     }
   },
@@ -1828,7 +1828,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Stim Pistol",
     "gadget_2": ["Barbed Wire", "Bulletproof Camera"],
-    "icon": "https://static.serames.me/r6/operators/icon/doc.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/doc.png",
     "description": "Fires a hypodermic shot to revive himself or teammates from a distance. Can also provide a temporary boost",
     "weapons": {
       "primary": [{
@@ -1842,7 +1842,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/MP5.jpg"
+        "image": "https://static.ser.moe/r6/weapons/MP5.jpg"
       }, {
         "name": "SG-CQB",
         "damage": "53",
@@ -1854,7 +1854,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SG-CQB.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SG-CQB.jpg"
       }, {
         "name": "P90",
         "damage": "22",
@@ -1866,7 +1866,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/P90.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P90.jpg"
       }],
       "secondary": [{
         "name": "P9",
@@ -1879,7 +1879,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P9.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P9.jpg"
       }, {
         "name": "LFP586",
         "damage": "78",
@@ -1891,7 +1891,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/LFP586.jpg"
+        "image": "https://static.ser.moe/r6/weapons/LFP586.jpg"
       }]
     }
   },
@@ -1900,7 +1900,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Yokai Drone",
     "gadget_2": ["Barbed Wire", "Impact Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/echo.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/echo.png",
     "description": "Hovering drone that releases disorienting sonic bursts. Yokai also transmits a video feed to the Operator",
     "weapons": {
       "primary": [{
@@ -1914,7 +1914,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/MP5SD.jpg"
+        "image": "https://static.ser.moe/r6/weapons/MP5SD.jpg"
       }, {
         "name": "SuperNova",
         "damage": "48",
@@ -1926,7 +1926,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SuperNova.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SuperNova.jpg"
       }],
       "secondary": [{
         "name": "P229",
@@ -1939,7 +1939,7 @@
         "grips": ["no grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P229.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P229.jpg"
       }, {
         "name": "Bearing 9",
         "damage": "33",
@@ -1951,7 +1951,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Machine Pistol",
-        "image": "https://static.serames.me/r6/weapons/Bearing 9.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Bearing 9.jpg"
       }]
     }
   },
@@ -1960,7 +1960,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Grzmot Mines",
     "gadget_2": ["Barbed Wire", "Deployable Shield"],
-    "icon": "https://static.serames.me/r6/operators/icon/ela.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/ela.png",
     "description": "Concussion proximity mines that can be anchored on surfaces, impairing hearing and causeing a dizzying effect",
     "weapons": {
       "primary": [{
@@ -1974,7 +1974,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/Scorpion EVO 3 A1.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Scorpion EVO 3 A1.jpg"
       }, {
         "name": "FO-12",
         "damage": "35",
@@ -1986,7 +1986,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/FO-12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/FO-12.jpg"
       }],
       "secondary": [{
         "name": "RG15",
@@ -1999,7 +1999,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/RG15.jpg"
+        "image": "https://static.ser.moe/r6/weapons/RG15.jpg"
       }]
     }
   },
@@ -2008,7 +2008,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Welcome Mat",
     "gadget_2": ["Bulletproof Camera", "Deployable Shield"],
-    "icon": "https://static.serames.me/r6/operators/icon/frost.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/frost.png",
     "description": "Uses a mechanical trap to incapacitate enemies",
     "weapons": {
       "primary": [{
@@ -2022,7 +2022,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/Super 90.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Super 90.jpg"
       }, {
         "name": "9mm C1",
         "damage": "45",
@@ -2034,7 +2034,7 @@
         "grips": ["Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/9mm C1.jpg"
+        "image": "https://static.ser.moe/r6/weapons/9mm C1.jpg"
       }],
       "secondary": [{
         "name": "Mk1 9mm",
@@ -2047,7 +2047,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/Mk1 9mm.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Mk1 9mm.jpg"
       }]
     }
   },
@@ -2056,7 +2056,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Volcán Shield",
     "gadget_2": ["Proximity Alarms", "Nitro Cell"],
-    "icon": "https://static.serames.me/r6/operators/icon/goyo.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/goyo.png",
     "description": "Incendiary bomb that explodes when destroyed, attached to deployable shield",
     "weapons": {
       "primary": [{
@@ -2070,7 +2070,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/Vector .45 ACP.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Vector .45 ACP.jpg"
       }, {
         "name": "TCSG12",
         "damage": "84",
@@ -2082,7 +2082,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/TCSG12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/TCSG12.jpg"
       }],
       "secondary": [{
         "name": "P229",
@@ -2095,7 +2095,7 @@
         "grips": ["no grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P229.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P229.jpg"
       }]
     }
   },
@@ -2104,7 +2104,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Active Defense System",
     "gadget_2": ["Bulletproof Camera", "Barbed Wire"],
-    "icon": "https://static.serames.me/r6/operators/icon/jager.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/jager.png",
     "description": "Uses and Active Defense system to intercept grenades before they detonate",
     "weapons": {
       "primary": [{
@@ -2118,7 +2118,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/M870.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M870.jpg"
       }, {
         "name": "416-C Carbine",
         "damage": "38",
@@ -2130,7 +2130,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/416-C Carbine.jpg"
+        "image": "https://static.ser.moe/r6/weapons/416-C Carbine.jpg"
       }],
       "secondary": [{
         "name": "P12",
@@ -2143,7 +2143,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P12.jpg"
       }]
     }
   },
@@ -2152,7 +2152,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Rtilla Electroclaws",
     "gadget_2": ["Nitro Cell", "Barbed Wire"],
-    "icon": "https://static.serames.me/r6/operators/icon/kaid.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/kaid.png",
     "description": "Electrifies reinforced walls and hatches, barbed wire, and deployable shields in its effective area",
     "weapons": {
       "primary": [{
@@ -2166,7 +2166,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/AUG A3.jpg"
+        "image": "https://static.ser.moe/r6/weapons/AUG A3.jpg"
       }, {
         "name": "TCSG12",
         "damage": "84",
@@ -2178,7 +2178,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/TCSG12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/TCSG12.jpg"
       }],
       "secondary": [{
         "name": ".44 Mag Semi-Auto",
@@ -2191,7 +2191,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/.44 Mag Semi-Auto.jpg"
+        "image": "https://static.ser.moe/r6/weapons/.44 Mag Semi-Auto.jpg"
       }, {
         "name": "LFP586",
         "damage": "78",
@@ -2203,7 +2203,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/LFP586.jpg"
+        "image": "https://static.ser.moe/r6/weapons/LFP586.jpg"
       }]
     }
   },
@@ -2212,7 +2212,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Entry Denial Devices",
     "gadget_2": ["Impact Grenades", "Nitro Cell"],
-    "icon": "https://static.serames.me/r6/operators/icon/kapkan.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/kapkan.png",
     "description": "Sets booby traps on windows and door frames",
     "weapons": {
       "primary": [{
@@ -2226,7 +2226,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/9x19VSN.jpg"
+        "image": "https://static.ser.moe/r6/weapons/9x19VSN.jpg"
       }, {
         "name": "SASG-12",
         "damage": "50",
@@ -2238,7 +2238,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SASG-12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SASG-12.jpg"
       }],
       "secondary": [{
         "name": "PMM",
@@ -2251,7 +2251,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/PMM.jpg"
+        "image": "https://static.ser.moe/r6/weapons/PMM.jpg"
       }, {
         "name": "GSh-18",
         "damage": "44",
@@ -2263,7 +2263,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["No under barrels available"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/GSh-18.jpg"
+        "image": "https://static.ser.moe/r6/weapons/GSh-18.jpg"
       }]
     }
   },
@@ -2272,7 +2272,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Gu Mines",
     "gadget_2": ["Impact Grenades", "Bulletproof Camera"],
-    "icon": "https://static.serames.me/r6/operators/icon/lesion.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/lesion.png",
     "description": "Cloaked toxic mines that inject a compound, injuring opponents and limiting their speed",
     "weapons": {
       "primary": [{
@@ -2286,7 +2286,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SIX12 SD.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SIX12 SD.jpg"
       }, {
         "name": "T-5 SMG",
         "damage": "30",
@@ -2298,7 +2298,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/T-5 SMG.jpg"
+        "image": "https://static.ser.moe/r6/weapons/T-5 SMG.jpg"
       }],
       "secondary": [{
         "name": "Q-929",
@@ -2311,7 +2311,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/Q-929.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Q-929.jpg"
       }]
     }
   },
@@ -2320,7 +2320,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Evil Eye",
     "gadget_2": ["Barbed Wire", "Impact Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/maestro.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/maestro.png",
     "description": "A remote controlled bulletproof camera armed with a high-energy laser",
     "weapons": {
       "primary": [{
@@ -2334,7 +2334,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Light Machine Gun",
-        "image": "https://static.serames.me/r6/weapons/ALDA 5.56.jpg"
+        "image": "https://static.ser.moe/r6/weapons/ALDA 5.56.jpg"
       }, {
         "name": "ACS12",
         "damage": "59",
@@ -2346,7 +2346,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/ACS12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/ACS12.jpg"
       }],
       "secondary": [{
         "name": "Bailiff 410",
@@ -2359,7 +2359,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/Bailiff 410.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Bailiff 410.jpg"
       }, {
         "name": "Keratos .357",
         "damage": "78",
@@ -2371,7 +2371,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/Keratos .357.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Keratos .357.jpg"
       }]
     }
   },
@@ -2380,7 +2380,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Banshee Sonic Defense",
     "gadget_2": ["Impact Grenades", "Nitro Cell"],
-    "icon": "https://static.serames.me/operators/icon/melusi.png",
+    "icon": "https://static.ser.moe/operators/icon/melusi.png",
     "description": "Deployable bulletproof gadget which emits sound to slow down opponents in range",
     "weapons": {
       "primary": [{
@@ -2394,7 +2394,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/T-5 SMG.jpg"
+        "image": "https://static.ser.moe/r6/weapons/T-5 SMG.jpg"
       }, {
         "name": "Super 90",
         "damage": "35",
@@ -2406,7 +2406,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/Super 90.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Super 90.jpg"
       }],
       "secondary": [{
         "name": "RG15",
@@ -2419,7 +2419,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/RG15.jpg"
+        "image": "https://static.ser.moe/r6/weapons/RG15.jpg"
       }]
     }
   },
@@ -2428,7 +2428,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Black Mirror",
     "gadget_2": ["Proximity Alarms", "Nitro Cell"],
-    "icon": "https://static.serames.me/r6/operators/icon/mira.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/mira.png",
     "description": "Deploys a one-way bulletproof mirrir on breakable and reinforced walls. Can also be ejected to create a murder hole",
     "weapons": {
       "primary": [{
@@ -2442,7 +2442,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/Vector .45 ACP.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Vector .45 ACP.jpg"
       }, {
         "name": "ITA12L",
         "damage": "50",
@@ -2454,7 +2454,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/ITA12L.jpg"
+        "image": "https://static.ser.moe/r6/weapons/ITA12L.jpg"
       }],
       "secondary": [{
         "name": "ITA12S",
@@ -2467,7 +2467,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/ITA12S.jpg"
+        "image": "https://static.ser.moe/r6/weapons/ITA12S.jpg"
       }, {
         "name": "USP40",
         "damage": "48",
@@ -2479,7 +2479,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/USP40.jpg"
+        "image": "https://static.ser.moe/r6/weapons/USP40.jpg"
       }]
     }
   },
@@ -2488,7 +2488,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Pest Launcher",
     "gadget_2": ["Barbed Wire", "Nitro Cell"],
-    "icon": "https://static.serames.me/r6/operators/icon/mozzie.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/mozzie.png",
     "description": "Launches autonomous bots that latch onto nearby enemy drones, hijacking their controls",
     "weapons": {
       "primary": [{
@@ -2502,7 +2502,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/Commando 9.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Commando 9.jpg"
       }, {
         "name": "P10 RONI",
         "damage": "26",
@@ -2514,7 +2514,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/P10 RONI.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P10 RONI.jpg"
       }],
       "secondary": [{
         "name": "SPD 9mm",
@@ -2527,7 +2527,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/SPD 9mm.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SPD 9mm.jpg"
       }]
     }
   },
@@ -2536,7 +2536,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Signal Disruptors",
     "gadget_2": ["Nitro Cell", "Bulletproof Camera"],
-    "icon": "https://static.serames.me/r6/operators/icon/mute.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/mute.png",
     "description": "Jams communications for remotely detonated gadgets or drones in its range",
     "weapons": {
       "primary": [{
@@ -2550,7 +2550,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/MP5K.jpg"
+        "image": "https://static.ser.moe/r6/weapons/MP5K.jpg"
       }, {
         "name": "M590A1",
         "damage": "45",
@@ -2562,7 +2562,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/M590A1.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M590A1.jpg"
       }],
       "secondary": [{
         "name": "P226 Mk 25",
@@ -2575,7 +2575,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P226 Mk 25.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P226 Mk 25.jpg"
       }, {
         "name": "SMG-11",
         "damage": "32",
@@ -2587,7 +2587,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Machine Pistol",
-        "image": "https://static.serames.me/r6/weapons/SMG-11.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SMG-11.jpg"
       }]
     }
   },
@@ -2597,7 +2597,7 @@
     "gadget_1": "Remah Dash",
     "gadget_2": ["Barbed Wire", "Proximity Alarms"],
     "description": "Fast dash that allows for faster roaming, breaches, breakable walls, and pushes back opponents",
-    "icon": "https://static.serames.me/r6/operators/icon/oryx.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/oryx.png",
     "weapons": {
       "primary": [{
         "name": "MP5",
@@ -2610,7 +2610,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/MP5.jpg"
+        "image": "https://static.ser.moe/r6/weapons/MP5.jpg"
       }, {
         "name": "SPAS-12",
         "damage": "35",
@@ -2622,7 +2622,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SPAS-12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SPAS-12.jpg"
       }],
       "secondary": [{
         "name": "Bailiff 410",
@@ -2635,7 +2635,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/Bailiff 410.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Bailiff 410.jpg"
       }, {
         "name": "USP40",
         "damage": "48",
@@ -2647,7 +2647,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/USP40.jpg"
+        "image": "https://static.ser.moe/r6/weapons/USP40.jpg"
       }]
     }
   },
@@ -2656,7 +2656,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Heartbeat Sensor",
     "gadget_2": ["Barbed Wire", "Nitro Cell"],
-    "icon": "https://static.serames.me/r6/operators/icon/pulse.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/pulse.png",
     "description": "Detects heartbeats at a short distance through obstacles",
     "weapons": {
       "primary": [{
@@ -2670,7 +2670,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/M1014.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M1014.jpg"
       }, {
         "name": "UMP45",
         "damage": "38",
@@ -2682,7 +2682,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/UMP45.jpg"
+        "image": "https://static.ser.moe/r6/weapons/UMP45.jpg"
       }],
       "secondary": [{
         "name": "M45 MEUSOC",
@@ -2695,7 +2695,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/M45 MEUSOC.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M45 MEUSOC.jpg"
       }, {
         "name": "5.7 USG",
         "damage": "42",
@@ -2707,7 +2707,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/5.7 USG.jpg"
+        "image": "https://static.ser.moe/r6/weapons/5.7 USG.jpg"
       }]
     }
   },
@@ -2716,7 +2716,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Armor Pack",
     "gadget_2": ["Proximity Alarms", "Impact Grenades"],
-    "icon": "https://static.serames.me/r6/operators/icon/rook.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/rook.png",
     "description": "Drops a supply bag full of armor plates for his teammates to use",
     "weapons": {
       "primary": [{
@@ -2730,7 +2730,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/MP5.jpg"
+        "image": "https://static.ser.moe/r6/weapons/MP5.jpg"
       }, {
         "name": "SG-CQB",
         "damage": "53",
@@ -2742,7 +2742,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SG-CQB.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SG-CQB.jpg"
       }, {
         "name": "P90",
         "damage": "22",
@@ -2754,7 +2754,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/P90.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P90.jpg"
       }],
       "secondary": [{
         "name": "P9",
@@ -2767,7 +2767,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P9.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P9.jpg"
       }, {
         "name": "LFP586",
         "damage": "78",
@@ -2779,7 +2779,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/LFP586.jpg"
+        "image": "https://static.ser.moe/r6/weapons/LFP586.jpg"
       }]
     }
   },
@@ -2788,7 +2788,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Remote Gas Grenades",
     "gadget_2": ["Deployable Shield", "Barbed Wire"],
-    "icon": "https://static.serames.me/r6/operators/icon/smoke.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/smoke.png",
     "description": "Sets remote detonated toxic gas charges",
     "weapons": {
       "primary": [{
@@ -2802,7 +2802,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/FMG-9.jpg"
+        "image": "https://static.ser.moe/r6/weapons/FMG-9.jpg"
       }, {
         "name": "M590A1",
         "damage": "45",
@@ -2814,7 +2814,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/M590A1.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M590A1.jpg"
       }],
       "secondary": [{
         "name": "P226 Mk 25",
@@ -2827,7 +2827,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P226 Mk 25.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P226 Mk 25.jpg"
       }, {
         "name": "SMG-11",
         "damage": "32",
@@ -2839,7 +2839,7 @@
         "grips": ["Vertical Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Machine Pistol",
-        "image": "https://static.serames.me/r6/weapons/SMG-11.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SMG-11.jpg"
       }]
     }
   },
@@ -2848,7 +2848,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Mounted LMG",
     "gadget_2": ["Barbed Wire", "Proximity Alarms"],
-    "icon": "https://static.serames.me/r6/operators/icon/tachanka.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/tachanka.png",
     "description": "Deploys a Mounted LMG with a ballistic shield protecting the head from frontal shots",
     "weapons": {
       "primary": [{
@@ -2862,7 +2862,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SASG-12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SASG-12.jpg"
       }, {
         "name": "9x19VSN",
         "damage": "34",
@@ -2874,7 +2874,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/9x19VSN.jpg"
+        "image": "https://static.ser.moe/r6/weapons/9x19VSN.jpg"
       }],
       "secondary": [{
         "name": "GSh-18",
@@ -2887,7 +2887,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["No under barrels available"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/GSh-18.jpg"
+        "image": "https://static.ser.moe/r6/weapons/GSh-18.jpg"
       }, {
         "name": "PMM",
         "damage": "61",
@@ -2899,7 +2899,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/PMM.jpg"
+        "image": "https://static.ser.moe/r6/weapons/PMM.jpg"
       }]
     }
   },
@@ -2908,7 +2908,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Black Eyes",
     "gadget_2": ["Deployable Shield", "Nitro Cell"],
-    "icon": "https://static.serames.me/r6/operators/icon/valkyrie.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/valkyrie.png",
     "description": "Can set up 'Black Eye' cameras, feed accessible by while team via observation tools",
     "weapons": {
       "primary": [{
@@ -2922,7 +2922,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/MPX.jpg"
+        "image": "https://static.ser.moe/r6/weapons/MPX.jpg"
       }, {
         "name": "SPAS-12",
         "damage": "35",
@@ -2934,7 +2934,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/SPAS-12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SPAS-12.jpg"
       }],
       "secondary": [{
         "name": "D-50",
@@ -2947,7 +2947,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/D-50.jpg"
+        "image": "https://static.ser.moe/r6/weapons/D-50.jpg"
       }]
     }
   },
@@ -2956,7 +2956,7 @@
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "ERC-7",
     "gadget_2": ["Bulletproof Camera", "Impact Grenade"],
-    "icon": "https://static.serames.me/r6/operators/icon/vigil.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/vigil.png",
     "description": "Vigil scans surrounding devices to wipe his image from cameras and drones",
     "weapons": {
       "primary": [{
@@ -2970,7 +2970,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/K1A.jpg"
+        "image": "https://static.ser.moe/r6/weapons/K1A.jpg"
       }, {
         "name": "BOSG.12.2",
         "damage": "125",
@@ -2982,7 +2982,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/BOSG.12.2.jpg"
+        "image": "https://static.ser.moe/r6/weapons/BOSG.12.2.jpg"
       }],
       "secondary": [{
         "name": "C75 Auto",
@@ -2995,7 +2995,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["No under barrel available"],
         "weapon_type": "Machine Pistol",
-        "image": "https://static.serames.me/r6/weapons/C75 Auto.jpg"
+        "image": "https://static.ser.moe/r6/weapons/C75 Auto.jpg"
       }, {
         "name": "SMG-12",
         "damage": "28",
@@ -3007,7 +3007,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Machine Pistol",
-        "image": "https://static.serames.me/r6/weapons/SMG-12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SMG-12.jpg"
       }]
     }
   },
@@ -3016,7 +3016,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Mag-NET",
     "gadget_2": ["Proximity Alarms", "Deployable Shield"],
-    "icon": "https://static.serames.me/r6/operators/icon/wamai.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/wamai.png",
     "description": "Thrown adhesive gadget that affects and captures an opponent's projectile, and then self-destructs to detonate it.",
     "weapons": {
       "primary": [{
@@ -3030,7 +3030,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Assault Rifle",
-        "image": "https://static.serames.me/r6/weapons/AUG A2.jpg"
+        "image": "https://static.ser.moe/r6/weapons/AUG A2.jpg"
       }, {
         "name": "MP5K",
         "damage": "29",
@@ -3042,7 +3042,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/MP5K.jpg"
+        "image": "https://static.ser.moe/r6/weapons/MP5K.jpg"
       }],
       "secondary": [{
         "name": "Keratos .357",
@@ -3055,7 +3055,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/Keratos .357.jpg"
+        "image": "https://static.ser.moe/r6/weapons/Keratos .357.jpg"
       }, {
         "name": "P12",
         "damage": "44",
@@ -3067,7 +3067,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P12.jpg"
       }]
     }
   },
@@ -3076,7 +3076,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Glance Smart Glasses",
     "gadget_2": ["Deployable Shield", "Nitro Cell"],
-    "icon": "https://static.serames.me/r6/operators/icon/warden.png",
+    "icon": "https://static.ser.moe/r6/operators/icon/warden.png",
     "description": "Eyewear that improves visibility in smoke while standing still. Can also be activated to protect against or reduce flash blindness",
     "weapons": {
       "primary": [{
@@ -3090,7 +3090,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["laser"],
         "weapon_type": "Shotgun",
-        "image": "https://static.serames.me/r6/weapons/M590A1.jpg"
+        "image": "https://static.ser.moe/r6/weapons/M590A1.jpg"
       }, {
         "name": "MPX",
         "damage": "26",
@@ -3102,7 +3102,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.serames.me/r6/weapons/MPX.jpg"
+        "image": "https://static.ser.moe/r6/weapons/MPX.jpg"
       }],
       "secondary": [{
         "name": "P-10C",
@@ -3115,7 +3115,7 @@
         "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Handgun",
-        "image": "https://static.serames.me/r6/weapons/P-10C.jpg"
+        "image": "https://static.ser.moe/r6/weapons/P-10C.jpg"
       }, {
         "name": "SMG-12",
         "damage": "28",
@@ -3127,7 +3127,7 @@
         "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Machine Pistol",
-        "image": "https://static.serames.me/r6/weapons/SMG-12.jpg"
+        "image": "https://static.ser.moe/r6/weapons/SMG-12.jpg"
       }]
     }
   }
