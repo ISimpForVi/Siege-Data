@@ -2037,6 +2037,18 @@
         "image": "https://static.ser.moe/r6/weapons/9mm C1.jpg"
       }],
       "secondary": [{
+        "name": "ITA12S",
+        "damage": "70",
+        "rof": "pump-Action",
+        "mag_size": "5",
+        "total_ammo": "26",
+        "sights": ["Red Dot", "Holographic", "Reflex"],
+        "barrels": ["No barrels available"],
+        "grips": ["No grips available"],
+        "under_barrel": ["Laser"],
+        "weapon_type": "Shotgun",
+        "image": "https://static.ser.moe/r6/weapons/ITA12S.jpg"
+      }, {
         "name": "Mk1 9mm",
         "damage": "48",
         "rof": "Semi-Auto",
@@ -2384,17 +2396,17 @@
     "description": "Deployable bulletproof gadget which emits sound to slow down opponents in range",
     "weapons": {
       "primary": [{
-        "name": "T-5 SMG",
-        "damage": "30",
-        "rof": "900 RPM",
+        "name": "MP5",
+        "damage": "27",
+        "rof": "800 RPM",
         "mag_size": "30 + 1",
         "total_ammo": "181",
         "sights": ["Red Dot", "Holographic", "Reflex"],
-        "barrels": ["Suppressor", "Flash Hider", "Compensator", "Muzzle Brake"],
-        "grips": ["No grips available"],
+        "barrels": ["Suppressor", "Flash Hider", "Muzzle Brake"],
+        "grips": ["Vertical Grip", "Angled Grip"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.ser.moe/r6/weapons/T-5 SMG.jpg"
+        "image": "https://static.ser.moe/r6/weapons/MP5.jpg"
       }, {
         "name": "Super 90",
         "damage": "35",
@@ -2600,17 +2612,17 @@
     "icon": "https://static.ser.moe/r6/operators/icon/oryx.png",
     "weapons": {
       "primary": [{
-        "name": "MP5",
-        "damage": "27",
-        "rof": "800 RPM",
+        "name": "T-5 SMG",
+        "damage": "30",
+        "rof": "900 RPM",
         "mag_size": "30 + 1",
         "total_ammo": "181",
-        "sights": ["Red Dot", "Holographic", "Reflex"],
-        "barrels": ["Suppressor", "Flash Hider", "Muzzle Brake"],
-        "grips": ["Vertical Grip", "Angled Grip"],
+        "sights": ["Red Dot", "Holographic", "Reflex", "Scope 1.5x"],
+        "barrels": ["Suppressor", "Flash Hider", "Compensator", "Muzzle Brake"],
+        "grips": ["No grips available"],
         "under_barrel": ["Laser"],
         "weapon_type": "Submachine Gun",
-        "image": "https://static.ser.moe/r6/weapons/MP5.jpg"
+        "image": "https://static.ser.moe/r6/weapons/T-5 SMG.jpg"
       }, {
         "name": "SPAS-12",
         "damage": "35",
