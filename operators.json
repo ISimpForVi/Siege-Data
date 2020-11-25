@@ -1619,6 +1619,54 @@
       }]
     }
   },
+  "Aruni": {
+    "name": "Aruni",
+    "stats": "2 Armor, 2 Speed",
+    "gadget_1": "Surya Gate",
+    "gadget_2": ["Barbed Wire", "Bulletproof Camera"],
+    "icon": "https://static.ser.moe/r6/operators/icon/aruni.png",
+    "description": "Laser-generating device set on walls or entry points that deactivates after damaging gadgets or opponents, and is reactivatable",
+    "weapons": {
+      "primary": [{
+        "name": "P10 RONI",
+        "damage": "26",
+        "rof": "950 RPM",
+        "mag_size": "19 + 1",
+        "total_ammo": "153",
+        "sights": ["Red Dot", "Holographic", "Reflex"],
+        "barrels": ["Suppressor", "Flash Hider", "Compensator", "Muzzle Brake", "Extended Barrel"],
+        "grips": ["Vertical Grip", "Angled Grip"],
+        "under_barrel": ["Laser"],
+        "weapon_type": "Submachine Gun",
+        "image": "https://static.ser.moe/r6/weapons/P10 RONI.jpg"
+      }, {
+        "name": "Mk 14 EBR",
+        "damage": "60",
+        "rof": "Semi-Auto",
+        "mag_size": "20 + 1",
+        "total_ammo": "101",
+        "sights": ["Red Dot", "Holographic", "Reflex", "Scope 1.5x"],
+        "barrels": ["Suppressor"],
+        "grips": ["Vertical Grip", "Angled Grip"],
+        "under_barrel": ["Laser"],
+        "weapon_type": "Marksman Rifle",
+        "image": "https://static.ser.moe/r6/weapons/Mk 14 EBR.jpg"
+      }],
+      "secondary": [{
+        "name": "PRB92",
+        "damage": "42",
+        "rof": "Semi-Auto",
+        "mag_size": "15 + 1",
+        "total_ammo": "91",
+        "sights": ["No sights available"],
+        "barrels": ["Suppressor", "Muzzle Brake"],
+        "grips": ["No grips available"],
+        "under_barrel": ["Laser"],
+        "weapon_type": "Handgun",
+        "image": "https://static.ser.moe/r6/weapons/PRB92.jpg"
+      }]
+    }
+  },
   "Bandit": {
     "name": "Bandit",
     "stats": "1 Armor, 3 Speed",
@@ -2861,19 +2909,19 @@
     "gadget_1": "Mounted LMG",
     "gadget_2": ["Barbed Wire", "Proximity Alarms"],
     "icon": "https://static.ser.moe/r6/operators/icon/tachanka.png",
-    "description": "Deploys a Mounted LMG with a ballistic shield protecting the head from frontal shots",
+    "description": "Launcher firing heavy incendiary grenades with a timed fuse activated on the first bounce.",
     "weapons": {
       "primary": [{
-        "name": "SASG-12",
-        "damage": "50",
-        "rof": "Semi-Auto",
-        "mag_size": "10 + 1",
-        "total_ammo": "41",
-        "sights": ["Red Dot", "Holographic", "Reflex"],
-        "barrels": ["Suppressor"],
-        "grips": ["Vertical Grip", "Angled Grip"],
-        "under_barrel": ["Laser"],
-        "weapon_type": "Shotgun",
+        "name": "DP27",
+        "damage": "49",
+        "rof": "550 RPM",
+        "mag_size": "70 + 1",
+        "total_ammo": "282",
+        "sights": ["Reflex"],
+        "barrels": ["No barrels available"],
+        "grips": ["No grips available"],
+        "under_barrel": ["No under barrels available"],
+        "weapon_type": "Light Machine Gun",
         "image": "https://static.ser.moe/r6/weapons/SASG-12.jpg"
       }, {
         "name": "9x19VSN",

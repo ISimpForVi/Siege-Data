@@ -77,6 +77,19 @@
     "weapon_type": "Assault Rifle",
     "image": "https://static.ser.moe/r6/weapons/556xi.jpg"
   },
+  "DP27": {
+    "name": "DP27",
+    "damage": "49",
+    "rof": "550 RPM",
+    "mag_size": "70 + 1",
+    "total_ammo": "282",
+    "sights": ["Reflex"],
+    "barrels": ["No barrels available"],
+    "grips": ["No grips available"],
+    "under_barrel": ["No under barrels available"],
+    "weapon_type": "Light Machine Gun",
+    "image": "https://static.ser.moe/r6/weapons/SASG-12.jpg"
+  },
   "F2": {
     "name": "F2",
     "damage": "39",
