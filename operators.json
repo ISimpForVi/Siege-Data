@@ -111,7 +111,7 @@
     "name": "Ash",
     "stats": "1 Armor, 3 Speed",
     "gadget_1": "Breaching Rounds",
-    "gadget_2": ["Stun Grenades", "Breach Charges"],
+    "gadget_2": ["Claymore", "Breach Charges"],
     "icon": "https://static.ser.moe/r6/operators/icon/ash.png",
     "description": "Fires an explosive Breach Round that burrows into a surface and automatically detonates",
     "weapons": {
@@ -1347,7 +1347,7 @@
     "name": "Twitch",
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Shock Drones",
-    "gadget_2": ["Breach Charges", "Claymore"],
+    "gadget_2": ["Flash Grenades", "Claymore"],
     "icon": "https://static.ser.moe/r6/operators/icon/twitch.png",
     "description": "Uses two Shock Drones to disable traps or injure enemies. Deploys the first Shock Drone during the preparation phase",
     "weapons": {
@@ -2967,7 +2967,7 @@
     "name": "Valkyrie",
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Black Eyes",
-    "gadget_2": ["Deployable Shield", "Nitro Cell"],
+    "gadget_2": ["Impact Grenade", "Nitro Cell"],
     "icon": "https://static.ser.moe/r6/operators/icon/valkyrie.png",
     "description": "Can set up 'Black Eye' cameras, feed accessible by while team via observation tools",
     "weapons": {
@@ -3075,7 +3075,7 @@
     "name": "Wamai",
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Mag-NET",
-    "gadget_2": ["Proximity Alarms", "Deployable Shield"],
+    "gadget_2": ["Proximity Alarms", "Impact Grenade"],
     "icon": "https://static.ser.moe/r6/operators/icon/wamai.png",
     "description": "Thrown adhesive gadget that affects and captures an opponent's projectile, and then self-destructs to detonate it.",
     "weapons": {
