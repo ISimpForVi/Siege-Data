@@ -2,7 +2,11 @@
   "BANK": {
     "name": "Bank",
     "splash": "https://static.ser.moe/r6/maps/Bank/splash.jpg",
-    "rotations": ["newcomer", "ranked", "quick match"],
+    "rotations": [
+      "newcomer",
+      "ranked",
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Bank/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Bank/floor_2.jpg",
@@ -23,7 +27,10 @@
   "BORDER": {
     "name": "Border",
     "splash": "https://static.ser.moe/r6/maps/Border/splash.png",
-    "rotations": ["ranked", "quick match"],
+    "rotations": [
+      "ranked",
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Border/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Border/floor_2.jpg",
@@ -33,7 +40,10 @@
   "CHALET": {
     "name": "Chalet",
     "splash": "https://static.ser.moe/r6/maps/Chalet/splash.png",
-    "rotations": ["newcomer", "ranked"],
+    "rotations": [
+      "newcomer",
+      "ranked"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Chalet/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Chalet/floor_2.jpg",
@@ -44,7 +54,10 @@
   "CLUBHOUSE": {
     "name": "Clubhouse",
     "splash": "https://static.ser.moe/r6/maps/Clubhouse/splash.png",
-    "rotations": ["ranked", "quick match"],
+    "rotations": [
+      "ranked",
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Clubhouse/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Clubhouse/floor_2.jpg",
@@ -55,7 +68,10 @@
   "COASTLINE": {
     "name": "Coastline",
     "splash": "https://static.ser.moe/r6/maps/Coastline/splash.png",
-    "rotations": ["ranked", "quick match"],
+    "rotations": [
+      "ranked",
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Coastline/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Coastline/floor_2.jpg",
@@ -65,7 +81,11 @@
   "CONSULATE": {
     "name": "Consulate",
     "splash": "https://static.ser.moe/r6/maps/Consulate/splash.png",
-    "rotations": ["newcomer", "ranked", "quick match"],
+    "rotations": [
+      "newcomer",
+      "ranked",
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Consulate/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Consulate/floor_2.jpg",
@@ -97,7 +117,7 @@
   "HEREFORD_BASE": {
     "name": "Hereford Base",
     "splash": "https://static.ser.moe/r6/maps/Hereford%20Base/splash.png",
-    "rotations": ["quick match"],
+    "rotations": [],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Hereford%20Base/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Hereford%20Base/floor_2.jpg",
@@ -109,7 +129,9 @@
   "HOUSE": {
     "name": "House",
     "splash": "https://static.ser.moe/r6/maps/House/splash.png",
-    "rotations": ["quick match"],
+    "rotations": [
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/House/floor_1.png",
       "Floor_2": "https://static.ser.moe/r6/maps/House/floor_2.png",
@@ -120,7 +142,10 @@
   "KAFE_DOSTOYEVSKY": {
     "name": "Kafe Dostoyevsky",
     "splash": "https://static.ser.moe/r6/maps/Kafe%20Dostoyevsky/splash.png",
-    "rotations": ["ranked", "quick match"],
+    "rotations": [
+      "ranked",
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Kafe%20Dostoyevsky/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Kafe%20Dostoyevsky/floor_2.jpg",
@@ -131,7 +156,9 @@
   "KANAL": {
     "name": "Kanal",
     "splash": "https://static.ser.moe/r6/maps/Kanal/splash.png",
-    "rotations": ["ranked", "quick match"],
+    "rotations": [
+      "ranked"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Kanal/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Kanal/floor_2.jpg",
@@ -143,7 +170,10 @@
   "OREGON": {
     "name": "Oregon",
     "splash": "https://static.ser.moe/r6/maps/Oregon/splash.png",
-    "rotations": ["ranked", "quick match"],
+    "rotations": [
+      "ranked",
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Oregon/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Oregon/floor_2.jpg",
@@ -155,7 +185,9 @@
   "OUTBACK": {
     "name": "Outback",
     "splash": "https://static.ser.moe/r6/maps/Outback/splash.png",
-    "rotations": ["ranked", "quick match"],
+    "rotations": [
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Outback/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Outback/floor_2.jpg",
@@ -165,7 +197,9 @@
   "PRESIDENTIAL_PLANE": {
     "name": "Presidential Plane",
     "splash": "https://static.ser.moe/r6/maps/Presidential%20Plane/splash.png",
-    "rotations": [],
+    "rotations": [
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Presidential%20Plane/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Presidential%20Plane/floor_2.jpg",
@@ -176,7 +210,10 @@
   "SKYSCRAPER": {
     "name": "Skyscraper",
     "splash": "https://static.ser.moe/r6/maps/Skyscraper/splash.png",
-    "rotations": [],
+    "rotations": [
+      "ranked",
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Skyscraper/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Skyscraper/floor_2.jpg",
@@ -198,7 +235,10 @@
   "THEME_PARK": {
     "name": "Theme Park",
     "splash": "https://static.ser.moe/r6/maps/Theme%20Park/splash.png",
-    "rotations": ["ranked", "quick match"],
+    "rotations": [
+      "ranked",
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Theme%20Park/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Theme%20Park/floor_2.jpg",
@@ -208,7 +248,9 @@
   "TOWER": {
     "name": "Tower",
     "splash": "https://static.ser.moe/r6/maps/Tower/splash.png",
-    "rotations": [],
+    "rotations": [
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Tower/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Tower/floor_2.jpg",
@@ -218,7 +260,10 @@
   "VILLA": {
     "name": "Villa",
     "splash": "https://static.ser.moe/r6/maps/Villa/splash.png",
-    "rotations": ["ranked", "quick match"],
+    "rotations": [
+      "ranked",
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Villa/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Villa/floor_2.jpg",
@@ -229,7 +274,7 @@
   "YACHT": {
     "name": "Yacht",
     "splash": "https://static.ser.moe/r6/maps/Yacht/splash.png",
-    "rotations": ["quick match"],
+    "rotations": [],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Yacht/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Yacht/floor_2.jpg",
