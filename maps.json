@@ -29,7 +29,8 @@
     "splash": "https://static.ser.moe/r6/maps/Border/splash.png",
     "rotations": [
       "ranked",
-      "quick match"
+      "quick match",
+      "newcomer"
     ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Border/floor_1.jpg",
@@ -42,7 +43,8 @@
     "splash": "https://static.ser.moe/r6/maps/Chalet/splash.png",
     "rotations": [
       "newcomer",
-      "ranked"
+      "ranked",
+      "quick match"
     ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Chalet/floor_1.jpg",
@@ -70,7 +72,8 @@
     "splash": "https://static.ser.moe/r6/maps/Coastline/splash.png",
     "rotations": [
       "ranked",
-      "quick match"
+      "quick match",
+      "newcomer"
     ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Coastline/floor_1.jpg",
@@ -96,7 +99,9 @@
   "FAVELA": {
     "name": "Favela",
     "splash": "https://static.ser.moe/r6/maps/Favela/splash.png",
-    "rotations": [],
+    "rotations": [
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Favela/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Favela/floor_2.jpg",
@@ -107,7 +112,9 @@
   "FORTRESS": {
     "name": "Fortress",
     "splash": "https://static.ser.moe/r6/maps/Fortress/splash.png",
-    "rotations": [],
+    "rotations": [
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Fortress/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Fortress/floor_2.jpg",
@@ -117,7 +124,9 @@
   "HEREFORD_BASE": {
     "name": "Hereford Base",
     "splash": "https://static.ser.moe/r6/maps/Hereford%20Base/splash.png",
-    "rotations": [],
+    "rotations": [
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Hereford%20Base/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Hereford%20Base/floor_2.jpg",
@@ -144,7 +153,8 @@
     "splash": "https://static.ser.moe/r6/maps/Kafe%20Dostoyevsky/splash.png",
     "rotations": [
       "ranked",
-      "quick match"
+      "quick match",
+      "newcomer"
     ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Kafe%20Dostoyevsky/floor_1.jpg",
@@ -157,7 +167,8 @@
     "name": "Kanal",
     "splash": "https://static.ser.moe/r6/maps/Kanal/splash.png",
     "rotations": [
-      "ranked"
+      "ranked",
+      "quick match"
     ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Kanal/floor_1.jpg",
@@ -172,7 +183,8 @@
     "splash": "https://static.ser.moe/r6/maps/Oregon/splash.png",
     "rotations": [
       "ranked",
-      "quick match"
+      "quick match",
+      "newcomer"
     ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Oregon/floor_1.jpg",
@@ -274,7 +286,9 @@
   "YACHT": {
     "name": "Yacht",
     "splash": "https://static.ser.moe/r6/maps/Yacht/splash.png",
-    "rotations": [],
+    "rotations": [
+      "quick match"
+    ],
     "floors": {
       "Floor_1": "https://static.ser.moe/r6/maps/Yacht/floor_1.jpg",
       "Floor_2": "https://static.ser.moe/r6/maps/Yacht/floor_2.jpg",

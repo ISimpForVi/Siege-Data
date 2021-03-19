@@ -185,7 +185,7 @@
           "sights": [
             "Red Dot",
             "Holographic",
-            "reflex"
+            "Reflex"
           ],
           "barrels": [
             "Suppressor",
@@ -335,7 +335,7 @@
       "primary": [
         {
           "name": "Mk17 CQB",
-          "damage": "49",
+          "damage": "40",
           "rof": "585 RPM",
           "mag_size": "20 + 1",
           "total_ammo": "131",
@@ -480,7 +480,7 @@
     "gadget_1": "Skeleton Key",
     "gadget_2": [
       "Stun Grenades",
-      "Frag Grenades"
+      "Hard Breach Charge"
     ],
     "icon": "https://static.ser.moe/r6/operators/icon/buck.png",
     "description": "Toggles under-barrel shotgun attachment on his main weapon",
@@ -522,7 +522,7 @@
           "total_ammo": "161",
           "sights": [
             "Red Dot",
-            "holographic",
+            "Holographic",
             "Reflex",
             "Scope 3.0x"
           ],
@@ -729,25 +729,25 @@
       ],
       "secondary": [
         {
-          "name": "C75 Auto",
-          "damage": "35",
-          "rof": "1000 RPM",
-          "mag_size": "26 + 1",
-          "total_ammo": "105",
+          "name": "GONNE-6",
+          "damage": "10",
+          "rof": "Single-Use",
+          "mag_size": "1",
+          "total_ammo": "1",
           "sights": [
             "No sights available"
           ],
           "barrels": [
-            "Suppressor"
+            "No barrels available"
           ],
           "grips": [
             "No grips available"
           ],
           "under_barrel": [
-            "No under barrel available"
+            "No under barrels available"
           ],
-          "weapon_type": "Machine Pistol",
-          "image": "https://static.ser.moe/r6/weapons/C75 Auto.jpg"
+          "weapon_type": "Hand Cannon",
+          "image": "https://static.ser.moe/r6/weapons/GONNE-6.jpg"
         },
         {
           "name": "SMG-12",
@@ -782,7 +782,7 @@
     "gadget_1": "Adrenal Surge",
     "gadget_2": [
       "Hard Breach Charge",
-      "Frag Grenades"
+      "Stun Grenades"
     ],
     "icon": "https://static.ser.moe/r6/operators/icon/finka.png",
     "description": "The nanobots give the team a brief gain in HP and revive allies in a DBNO state",
@@ -890,6 +890,99 @@
           "weapon_type": "Handgun",
           "image": "https://static.ser.moe/r6/weapons/PMM.jpg"
         },
+        {
+          "name": "GONNE-6",
+          "damage": "10",
+          "rof": "Single-Use",
+          "mag_size": "1",
+          "total_ammo": "1",
+          "sights": [
+            "No sights available"
+          ],
+          "barrels": [
+            "No barrels available"
+          ],
+          "grips": [
+            "No grips available"
+          ],
+          "under_barrel": [
+            "No under barrels available"
+          ],
+          "weapon_type": "Hand Cannon",
+          "image": "https://static.ser.moe/r6/weapons/GONNE-6.jpg"
+        }
+      ]
+    }
+  },
+  "Flores": {
+    "name": "Flores",
+    "stats": "2 Armor, 2 Speed",
+    "gadget_1": "RCE-Ratero Charge",
+    "gadget_2": [
+      "Stun Grenades",
+      "Claymore"
+    ],
+    "icon": "https://static.ser.moe/r6/operators/icon/flores.png",
+    "description": "Remote control charge that anchors to a surface, becomes bulletproof, then detonates after a set time period",
+    "weapons": {
+      "primary": [
+        {
+          "name": "AR33",
+          "damage": "42",
+          "rof": "749 RPM",
+          "mag_size": "25 + 1",
+          "total_ammo": "201",
+          "sights": [
+            "Red Dot",
+            "Holographic",
+            "Reflex",
+            "Scope 1.5x",
+            "Scope 2.0x"
+          ],
+          "barrels": [
+            "Suppressor",
+            "Flash Hider",
+            "Compensator",
+            "Muzzle Brake"
+          ],
+          "grips": [
+            "Vertical Grip",
+            "Angled Grip"
+          ],
+          "under_barrel": [
+            "Laser"
+          ],
+          "weapon_type": "Assault Rifle",
+          "image": "https://static.ser.moe/r6/weapons/AR33.jpg"
+        },
+        {
+          "name": "SR-25",
+          "damage": "61",
+          "rof": "Semi-Auto",
+          "mag_size": "20 + 1",
+          "total_ammo": "101",
+          "sights": [
+            "Red Dot",
+            "Holographic",
+            "Reflex",
+            "Scope 3.0x"
+          ],
+          "barrels": [
+            "Suppressor",
+            "Flash Hider",
+            "Muzzle Brake"
+          ],
+          "grips": [
+            "Vertical Grip"
+          ],
+          "under_barrel": [
+            "Laser"
+          ],
+          "weapon_type": "Marksman Rifle",
+          "image": "https://static.ser.moe/r6/weapons/SR-25.jpg"
+        }
+      ],
+      "secondary": [
         {
           "name": "GSh-18",
           "damage": "44",
@@ -1059,7 +1152,7 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Flip Sight",
     "gadget_2": [
-      "Smoke Genades",
+      "Smoke Grenades",
       "Frag Grenades"
     ],
     "icon": "https://static.ser.moe/r6/operators/icon/glaz.png",
@@ -1094,18 +1187,16 @@
       ],
       "secondary": [
         {
-          "name": "GSh-18",
-          "damage": "44",
-          "rof": "Semi-Auto",
-          "mag_size": "18 + 1",
-          "total_ammo": "73",
+          "name": "GONNE-6",
+          "damage": "10",
+          "rof": "Single-Use",
+          "mag_size": "1",
+          "total_ammo": "1",
           "sights": [
             "No sights available"
           ],
           "barrels": [
-            "Suppressor",
-            "Compensator",
-            "Muzzle Brake"
+            "No barrels available"
           ],
           "grips": [
             "No grips available"
@@ -1113,8 +1204,8 @@
           "under_barrel": [
             "No under barrels available"
           ],
-          "weapon_type": "Handgun",
-          "image": "https://static.ser.moe/r6/weapons/GSh-18.jpg"
+          "weapon_type": "Hand Cannon",
+          "image": "https://static.ser.moe/r6/weapons/GONNE-6.jpg"
         },
         {
           "name": "PMM",
@@ -1146,7 +1237,7 @@
     "stats": "3 Armor, 1 Speed",
     "gadget_1": "Trax Stingers",
     "gadget_2": [
-      "Smoke Grenade",
+      "Smoke Grenades",
       "Breach Charges"
     ],
     "icon": "https://static.ser.moe/r6/operators/icon/gridlock.png",
@@ -1444,6 +1535,98 @@
       ]
     }
   },
+  "IQ": {
+    "name": "IQ",
+    "stats": "1 Armor, 3 Speed",
+    "gadget_1": "Electronics Detector",
+    "gadget_2": [
+      "Claymore",
+      "Breach Charges"
+    ],
+    "icon": "https://static.ser.moe/r6/operators/icon/iq.png",
+    "description": "Uses the Electronics Detector to locate any electronics in range through obstacles such as walls",
+    "weapons": {
+      "primary": [
+        {
+          "name": "AUG A2",
+          "damage": "42",
+          "rof": "720 RPM",
+          "mag_size": "30 + 1",
+          "total_ammo": "241",
+          "sights": [
+            "Red Dot",
+            "Holographic",
+            "Reflex"
+          ],
+          "barrels": [
+            "Suppressor",
+            "Flash Hider",
+            "Compensator"
+          ],
+          "grips": [
+            "No grips available"
+          ],
+          "under_barrel": [
+            "Laser"
+          ],
+          "weapon_type": "Assault Rifle",
+          "image": "https://static.ser.moe/r6/weapons/AUG A2.jpg"
+        },
+        {
+          "name": "552 COMMANDO",
+          "damage": "48",
+          "rof": "690 RPM",
+          "mag_size": "30 + 1",
+          "total_ammo": "271",
+          "sights": [
+            "Red Dot",
+            "Holographic",
+            "Reflex",
+            "Scope 1.5x"
+          ],
+          "barrels": [
+            "Suppressor"
+          ],
+          "grips": [
+            "Vertical Grip",
+            "Angled Grip"
+          ],
+          "under_barrel": [
+            "Laser"
+          ],
+          "weapon_type": "Assault Rifle",
+          "image": "https://static.ser.moe/r6/weapons/552 Commando.jpg"
+        },
+        {
+          "name": "G8A1",
+          "damage": "37",
+          "rof": "850 RPM",
+          "mag_size": "50 + 1",
+          "total_ammo": "201",
+          "sights": [
+            "Red Dot",
+            "Holographic",
+            "Reflex"
+          ],
+          "barrels": [
+            "Suppressor",
+            "Flash Hider",
+            "Compensator"
+          ],
+          "grips": [
+            "Angled Grip",
+            "Vertical Grip"
+          ],
+          "under_barrel": [
+            "No under barrels available"
+          ],
+          "weapon_type": "Light Machine Gun",
+          "image": "https://static.ser.moe/r6/weapons/G8A1.jpg"
+        }
+      ],
+      "secondary": []
+    }
+  },
   "Jackal": {
     "name": "Jackal",
     "stats": "2 Armor, 2 Speed",
@@ -1599,7 +1782,7 @@
       "primary": [
         {
           "name": "CSRX 300",
-          "damage": "122",
+          "damage": "127",
           "rof": "Bolt-Action",
           "mag_size": "5 + 1",
           "total_ammo": "21",
@@ -1908,7 +2091,7 @@
       "Smoke Grenades"
     ],
     "icon": "https://static.ser.moe/r6/operators/icon/montange.png",
-    "description": "can extend his Extendable Shield to offer full protection while standing",
+    "description": "Can extend his Extendable Shield to offer full protection while standing",
     "weapons": {
       "primary": [
         {
@@ -2256,7 +2439,7 @@
             "Muzzle Brake"
           ],
           "grips": [
-            "Vertical"
+            "Vertical Grip"
           ],
           "under_barrel": [
             "Laser"
@@ -2297,7 +2480,7 @@
           "sights": [
             "Red Dot",
             "Holographic",
-            "reflex"
+            "Reflex"
           ],
           "barrels": [
             "Suppressor",
@@ -2377,7 +2560,7 @@
             "Muzzle Brake"
           ],
           "grips": [
-            "Vertical"
+            "Vertical Grip"
           ],
           "under_barrel": [
             "Laser"
@@ -2457,7 +2640,8 @@
             "Red Dot",
             "Holographic",
             "Reflex",
-            "Scope 2.0x"
+            "Scope 2.0x",
+            "Scope 2.5x"
           ],
           "barrels": [
             "Suppressor",
@@ -2552,8 +2736,8 @@
     "stats": "2 Armor, 2 Speed",
     "gadget_1": "Shock Drones",
     "gadget_2": [
-      "Flash Grenades",
-      "Claymore"
+      "Claymore",
+      "Smoke Grenades"
     ],
     "icon": "https://static.ser.moe/r6/operators/icon/twitch.png",
     "description": "Uses two Shock Drones to disable traps or injure enemies. Deploys the first Shock Drone during the preparation phase",
@@ -2856,7 +3040,7 @@
             "No sights available"
           ],
           "barrels": [
-            "Suppressor (Permentantly Equipped)"
+            "Suppressor (Permenantly Equipped)"
           ],
           "grips": [
             "No grips available"
@@ -3019,7 +3203,7 @@
             "Scope 1.5x"
           ],
           "barrels": [
-            "No available barrels"
+            "No barrels available"
           ],
           "grips": [
             "Vertical Grip",
@@ -4035,7 +4219,7 @@
           "total_ammo": "51",
           "sights": [
             "Red Dot",
-            "holographic",
+            "Holographic",
             "Reflex",
             "Scope 2.0x"
           ],
@@ -4081,7 +4265,7 @@
   },
   "Jager": {
     "name": "Jager",
-    "stats": "1 Armor, 3 Speed",
+    "stats": "2 Armor, 2 Speed",
     "gadget_1": "Active Defense System",
     "gadget_2": [
       "Bulletproof Camera",
@@ -4216,7 +4400,7 @@
           "total_ammo": "51",
           "sights": [
             "Red Dot",
-            "holographic",
+            "Holographic",
             "Reflex",
             "Scope 2.5x"
           ],
@@ -4982,7 +5166,7 @@
           "sights": [
             "Red Dot",
             "Holographic",
-            "reflex"
+            "Reflex"
           ],
           "barrels": [
             "Suppressor",
@@ -5453,7 +5637,7 @@
           "sights": [
             "Red Dot",
             "Holographic",
-            "reflex"
+            "Reflex"
           ],
           "barrels": [
             "Suppressor",
